@@ -1,1 +1,1 @@
-# Stremlit Football Table App
+# Streamlit Football Table App
