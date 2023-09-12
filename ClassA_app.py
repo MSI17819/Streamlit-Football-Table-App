@@ -60,10 +60,8 @@ st.dataframe(df_slice, hide_index=True, width=600, height=528)
 
 # f = open(r"C:/Users/dell/Desktop/Project/KlasaA/ClassA_result_after_3.json")
 
-json_file_path = r"C:/Users/dell/Desktop/Project/KlasaA/ClassA_result_after_3.json"
-
-with open(json_file_path, 'r') as j:
-    data_after_2 = json.loads(j.read())
+with urllib.request.urlopen(r"https://raw.githubusercontent.com/MSI17819/Stremlit-Football-Table-App/main/ClassA_result_after_3.json") as url:
+    data_after_2 = json.load(url)
 # returns JSON object as
 # a dictionary
 # data_after_2 = json.load(f)
