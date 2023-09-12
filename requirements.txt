@@ -1,0 +1,9 @@
+pandas==2.0.3
+numpy==1.25.2
+beautifulsoup4==4.12.2
+matplotlib==3.7.1
+seaborn==0.12.2
+requests==2.31.0
+streamlit==1.26.0
+highlight-text==0.2
+mplsoccer==1.2.1
