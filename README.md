@@ -1,1 +1,1 @@
-# Stremlit-Football-Table-App
+# Stremlit Football Table App
