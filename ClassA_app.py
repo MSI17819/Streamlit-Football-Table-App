@@ -56,7 +56,7 @@ df_slice.rename(columns={'Drużyna' : 'Team', 'M' : 'Match',
 st.dataframe(df_slice, hide_index=True, width=600, height=528)
 
 
-f = open(r"C:/Users/dell/Desktop/Project/KlasaA/KlasaA_result_after_3.json")
+f = open(r"C:/Users/dell/Desktop/Project/KlasaA/ClassA_result_after_3.json")
 
 # returns JSON object as
 # a dictionary
