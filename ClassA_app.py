@@ -1,4 +1,4 @@
-
+# Importing the necessary libraries
 import pandas as pd
 import base64
 import matplotlib.pyplot as plt
@@ -130,6 +130,7 @@ if st.button('Chart'):
     
     # add color from highlite_dict to assigned team
     for idx, val in enumerate(df_slice['Team']):
+        # Using only the first word of the team name
         team_name = val.split()[0]
         for key, value in highlight_dict.items():
             if val == key:
