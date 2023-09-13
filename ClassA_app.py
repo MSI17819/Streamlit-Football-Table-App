@@ -4,14 +4,11 @@ import base64
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
-import requests
 import streamlit as st
 from bs4 import BeautifulSoup
 import requests
-from PIL import Image
 from highlight_text import fig_text
 from mplsoccer import Bumpy, FontManager, add_image
-import itertools
 import json
 import urllib.request
 from urllib.request import urlopen
@@ -28,14 +25,17 @@ The chart shows each team's current position in the table after a round of match
 * **Data source:** [https://www.mzpnkrakow.pl/terminarze/2023-2024/seniorzy/a_krakow_3/](https://www.mzpnkrakow.pl/terminarze/2023-2024/seniorzy/a_krakow_3/)
 """)
 
+# MZPN url website
 url = 'https://www.mzpnkrakow.pl/terminarze/2023-2024/seniorzy/a_krakow_3/'
 
 response = requests.get(url)
 
+# parse text
 soup = BeautifulSoup(response.text, 'html.parser')
 
 table = soup.find('table', {'id' : 'tabela', 'class' : 'table'})
 
+# append header and rows lists from table object
 header = []
 rows = []
 for i, row in enumerate(table.find_all('tr')):
@@ -44,31 +44,36 @@ for i, row in enumerate(table.find_all('tr')):
     else:
         rows.append([el.text.strip() for el in row.find_all('td')])
 
+# Remowe empty list from start of rows list
 rows.remove([])
 
+# create dataframe from rows and header list
 df = pd.DataFrame([row for row in rows], columns=header)
 
+# slice dataframe for desired columns
 df_slice = df.iloc[:, 0:8]
 
+# Rename each column
 df_slice.rename(columns={'Drużyna' : 'Team', 'M' : 'Match', 
                          'Pkt' : 'Points', 'Z' : 'Wins', 
                          'R' : "Draws", 'P' : "Losses", 
                          'Bramki' : 'Goals', 'Poz' : 'Position'}, inplace=True)
 
+# Displlay dataframe in stremlit
 st.dataframe(df_slice, hide_index=True, width=600, height=528)
 
-
-# f = open(r"C:/Users/dell/Desktop/Project/KlasaA/ClassA_result_after_3.json")
-
+# Open json file from github url
 with urllib.request.urlopen(r"https://raw.githubusercontent.com/MSI17819/Stremlit-Football-Table-App/main/ClassA_result_after_3.json") as url:
     data_after_2 = json.load(url)
-# returns JSON object as
-# a dictionary
-# data_after_2 = json.load(f)
 
+# Display of notes to the chart
 st.markdown("""The chart shows the position and number of matches played for each team.""")
 
+# Start button
 if st.button('Chart'):
+    
+    # Use bumpy chart from mplsoccer library
+    
     # match-week
     match_day = [str(num) for num in range(1, 14)]
 
@@ -88,8 +93,6 @@ if st.button('Chart'):
                     'DĄBSKI KRAKÓW' : "#b100fe",
                     'ISKRA KRZĘCIN' : "#7f2b0a"
                     }
-
-    # highlight_dict = {'TRAMWAJ KRAKÓW' : "#0026ff"}
      
     # instantiate object
     bumpy = Bumpy(
@@ -119,12 +122,13 @@ if st.button('Chart'):
         lw=2.0, # linewidth of the connecting lines
         )
 
-    # title and subtitle
+    # title
     TITLE = "Class A Group 3 season 2023/2024"
     
     # add title
     fig.text(0.5, 0.99, TITLE, size=30, color="#222222", ha="center")
     
+    # add color from highlite_dict to assigned team
     for idx, val in enumerate(df_slice['Team']):
         team_name = val.split()[0]
         for key, value in highlight_dict.items():
@@ -159,5 +163,3 @@ if st.button('Chart'):
                     fig.text(0.925, 0.150, team_name, fontsize=20, ha="left", color=value)
     
     st.pyplot(fig)
-    
-    
