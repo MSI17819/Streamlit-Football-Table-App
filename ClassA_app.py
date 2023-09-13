@@ -60,7 +60,7 @@ df_slice.rename(columns={'Drużyna' : 'Team', 'M' : 'Match',
                          'Bramki' : 'Goals', 'Poz' : 'Position'}, inplace=True)
 
 # Displlay dataframe in stremlit
-st.dataframe(df_slice, hide_index=True, width=610, height=528)
+st.dataframe(df_slice, hide_index=True, width=615, height=528)
 
 # Open json file from github url
 with urllib.request.urlopen(r"https://raw.githubusercontent.com/MSI17819/Stremlit-Football-Table-App/main/ClassA_result_after_3.json") as url:
