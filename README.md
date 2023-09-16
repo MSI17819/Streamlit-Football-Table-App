@@ -45,4 +45,4 @@ In the future project can be improved by:
 
 ## Contact
 
-Created by [123michal86@gmail.com](mailto:123michal86@gmail.com)_ - feel free to contact me!
+Created by [123michal86@gmail.com](mailto:123michal86@gmail.com) - feel free to contact me!
