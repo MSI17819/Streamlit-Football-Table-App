@@ -1,7 +1,7 @@
 # Streamlit Football Table App
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-football-table-app.streamlit.app/)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40tossingdata)](https://twitter.com/tossingdata)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/tossingdata.svg?style=social&label=Follow%20%40tossingdata)](https://twitter.com/tossingdata)
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSI17819)
 
 ### General information
