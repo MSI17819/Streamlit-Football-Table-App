@@ -5,6 +5,7 @@ The Streamlit Football Table app showcases Kraków's Class A Group 3. From a for
 As you can see it is a more amateur level, but we have a team with young players mainly from our academy.
 
 Club and academy website - [Tramway Krakow](https://tramwajkrakow.pl/) 
+
 Club Fb page - [Tram Fb](https://www.facebook.com/tstramwaj)
 
 ### Dataset
@@ -14,20 +15,20 @@ The table is linked to a graph where you can find the position of the team relat
 ## Technology stack
 
 ### Computing platform
--   [Miniconda environment](https://docs.conda.io/en/latest/miniconda.html)
--   [Jupyter Notebook](https://jupyter.org/)
--   [Visual Code Studio](https://code.visualstudio.com/)
+- [Miniconda environment](https://docs.conda.io/en/latest/miniconda.html)
+- [Jupyter Notebook](https://jupyter.org/)
+- [Visual Code Studio](https://code.visualstudio.com/)
 
 ### Packages for data pre-processing
--   [Numpy](https://numpy.org/)
--   [Pandas](https://numpy.org/)
+- [Numpy](https://numpy.org/)
+- [Pandas](https://numpy.org/)
 - [Streamlit](https://streamlit.io/)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [highlight_text](https://github.com/znstrider/highlight_text)
 - [mplsoccer](https://mplsoccer.readthedocs.io/en/latest/#)
 
 ### Data visualisation library
--  [Matplotlib](https://matplotlib.org/)
+- [Matplotlib](https://matplotlib.org/)
 - [Bumpy Chart](https://mplsoccer.readthedocs.io/en/latest/gallery/bumpy_charts/plot_bumpy.html)
 ## Status
 
@@ -37,11 +38,11 @@ Project is: _in progress_
 
 In the future project can be improved by:
 
--  adding more information about match players and teams stats
-- adding different vizualisation for league and players
+- adding more information on player and team statistics
+- adding different visuals for the league and players
 
 ## Acknowledgements
 
 ## Contact
 
-Created by _[123michal86@gmail.com](mailto:123michal86@gmail.com)_ - feel free to contact me!
+Created by [123michal86@gmail.com](mailto:123michal86@gmail.com)_ - feel free to contact me!
