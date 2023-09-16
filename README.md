@@ -1,6 +1,6 @@
 # Streamlit Football Table App
 
-[https://app-football-table-app.streamlit.app/]
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-football-table-app.streamlit.app/)
 
 ### General information
 The Streamlit Football Table app showcases Kraków's Class A Group 3 football league. From a formal point of view, this is the 8th football league in Poland, if you count from Ekstraklasa (the highest level of football competition in Poland).
