@@ -7,9 +7,9 @@
 The Streamlit Football Table app showcases Kraków's Class A Group 3 football league. From a formal point of view, this is the 8th football league in Poland, if you count from Ekstraklasa (the highest level of football competition in Poland).
 As you can see it is a more amateur level, but we have a team with young players mainly from our academy.
 
-Club and academy website - [Tramway Krakow](https://tramwajkrakow.pl/) 
+Club and academy website - [Tramwaj Kraków](https://tramwajkrakow.pl/) 
 
-Club Fb page - [Tram Fb](https://www.facebook.com/tstramwaj)
+Club Fb page - [Tramwaj Fb](https://www.facebook.com/tstramwaj)
 
 ### Dataset
 The dataset contains a table with each team's position, wins, losses, draws and goals.
