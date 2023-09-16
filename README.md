@@ -44,5 +44,3 @@ In the future project can be improved by:
 
 - adding more information on player and team statistics
 - adding different visuals for the league and players
-
-## Acknowledgements
