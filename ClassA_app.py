@@ -63,8 +63,8 @@ df_slice.rename(columns={'Drużyna' : 'Team', 'M' : 'Match',
 st.dataframe(df_slice, hide_index=True, width=615, height=528)
 
 # Open json file from github url
-with urllib.request.urlopen(r"https://raw.githubusercontent.com/MSI17819/Stremlit-Football-Table-App/main/ClassA_result_after_3.json") as url:
-    data_after_2 = json.load(url)
+with urllib.request.urlopen(r"https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/ClassA_result_after_4.json") as url:
+    data_after_4 = json.load(url)
 
 # Display of notes to the chart
 st.markdown("""The chart shows the position and number of matches played for each team.""")
@@ -113,7 +113,7 @@ if st.button('Chart'):
     fig, ax = bumpy.plot(
         x_list=match_day,  # match-day or match-week
         y_list=np.linspace(1, 14, 14).astype(int),  # position value from 1 to 20
-        values=data_after_2,  # values having positions for each team
+        values=data_after_4,  # values having positions for each team
         secondary_alpha=0.4,   # alpha value for non-shaded lines/markers
         highlight_dict=highlight_dict,  # team to be highlighted with their colors
         figsize=(18, 8),  # size of the figure
