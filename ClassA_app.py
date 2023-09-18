@@ -59,7 +59,7 @@ df_slice.rename(columns={'Drużyna' : 'Team', 'M' : 'Match',
                          'R' : "Draws", 'P' : "Losses", 
                          'Bramki' : 'Goals', 'Poz' : 'Position'}, inplace=True)
 
-# Displlay dataframe in stremlit
+# Display dataframe in stremlit
 st.dataframe(df_slice, hide_index=True, width=615, height=528)
 
 # Open json file from github url
@@ -85,7 +85,7 @@ if st.button('Chart'):
                     'RADZISZOWIANKA II RADZISZÓW' : "#ffd800",
                     'PŁOMIEŃ KOSTRZE' : "#806b00",
                     'TRAMWAJ KRAKÓW' : "#0026ff",
-                    'GAJOWIANKA GAJ' : "#00fe21",
+                    'GAJOWIANKA GAJ' : "#00d11b",
                     'STRZELCY KRAKÓW' : "#007f0e",
                     'CEDRONKA WOLA RADZISZOWSKA' : "#0094fe",
                     'PODGÓRZE KRAKÓW' : "#00497e",
