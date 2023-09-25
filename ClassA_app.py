@@ -81,7 +81,7 @@ if st.button('Chart'):
     highlight_dict = {'FAIRANT KRAKÓW' : "#fe0000",
                     'NADWIŚLAN KRAKÓW' : "#800001",
                     'TRZEBOL WIELKIE DROGI' : "#d65b02",
-                    'BOREK KRAKÓW' : "#803400",
+                    'BOREK KRAKÓW' : "#9c5d63",
                     'RADZISZOWIANKA II RADZISZÓW' : "#ffd800",
                     'PŁOMIEŃ KOSTRZE' : "#806b00",
                     'TRAMWAJ KRAKÓW' : "#0026ff",
