@@ -80,7 +80,7 @@ if st.button('Chart'):
     # highlight dict --> team to highlight and their corresponding colors
     highlight_dict = {'FAIRANT KRAKÓW' : "#fe0000",
                     'NADWIŚLAN KRAKÓW' : "#800001",
-                    'TRZEBOL WIELKIE DROGI' : "#8c3b01",
+                    'TRZEBOL WIELKIE DROGI' : "#ed6300",
                     'BOREK KRAKÓW' : "#803400",
                     'RADZISZOWIANKA II RADZISZÓW' : "#ffd800",
                     'PŁOMIEŃ KOSTRZE' : "#806b00",
