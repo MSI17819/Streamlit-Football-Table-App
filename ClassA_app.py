@@ -63,7 +63,7 @@ df_slice.rename(columns={'Drużyna' : 'Team', 'M' : 'Match',
 st.dataframe(df_slice, hide_index=True, width=615, height=528)
 
 # Open json file from github url
-with urllib.request.urlopen('https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/ClassA_result_after_4.json') as url:
+with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/ClassA_result_after_5.json') as url:
     data_after_4 = json.load(url)
 
 # Display of notes to the chart
@@ -80,14 +80,14 @@ if st.button('Chart'):
     # highlight dict --> team to highlight and their corresponding colors
     highlight_dict = {'FAIRANT KRAKÓW' : "#fe0000",
                     'NADWIŚLAN KRAKÓW' : "#800001",
-                    'TRZEBOL WIELKIE DROGI' : "#fe6a00",
+                    'TRZEBOL WIELKIE DROGI' : "#8c3b01",
                     'BOREK KRAKÓW' : "#803400",
                     'RADZISZOWIANKA II RADZISZÓW' : "#ffd800",
                     'PŁOMIEŃ KOSTRZE' : "#806b00",
                     'TRAMWAJ KRAKÓW' : "#0026ff",
-                    'GAJOWIANKA GAJ' : "#00d11b",
+                    'GAJOWIANKA GAJ' : "#029615",
                     'STRZELCY KRAKÓW' : "#007f0e",
-                    'CEDRONKA WOLA RADZISZOWSKA' : "#0094fe",
+                    'CEDRONKA WOLA RADZISZOWSKA' : "#035691",
                     'PODGÓRZE KRAKÓW' : "#00497e",
                     'ZWIERZYNIECKI KRAKÓW' : "#001280",
                     'DĄBSKI KRAKÓW' : "#b100fe",
@@ -119,7 +119,7 @@ if st.button('Chart'):
         figsize=(18, 8),  # size of the figure
         x_label='Match no.', y_label='Table position',  # label name
         ylim=(-0.1, 15),  # y-axis limit
-        lw=2.0, # linewidth of the connecting lines
+        lw=2.0 # linewidth of the connecting lines
         )
 
     # title
