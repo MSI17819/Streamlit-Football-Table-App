@@ -87,7 +87,7 @@ if st.button('Chart'):
                     'TRAMWAJ KRAKÓW' : "#0026ff",
                     'GAJOWIANKA GAJ' : "#029615",
                     'STRZELCY KRAKÓW' : "#013b07",
-                    'CEDRONKA WOLA RADZISZOWSKA' : "#025a99",
+                    'CEDRONKA WOLA RADZISZOWSKA' : "#012742",
                     'PODGÓRZE KRAKÓW' : "#00497e",
                     'ZWIERZYNIECKI KRAKÓW' : "#001280",
                     'DĄBSKI KRAKÓW' : "#b100fe",
