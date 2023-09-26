@@ -86,7 +86,7 @@ if st.button('Chart'):
                     'PŁOMIEŃ KOSTRZE' : "#806b00",
                     'TRAMWAJ KRAKÓW' : "#0026ff",
                     'GAJOWIANKA GAJ' : "#029615",
-                    'STRZELCY KRAKÓW' : "#013b07",
+                    'STRZELCY KRAKÓW' : "#005909",
                     'CEDRONKA WOLA RADZISZOWSKA' : "#012742",
                     'PODGÓRZE KRAKÓW' : "#00497e",
                     'ZWIERZYNIECKI KRAKÓW' : "#001280",
