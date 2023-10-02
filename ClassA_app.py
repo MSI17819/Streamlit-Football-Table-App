@@ -63,7 +63,7 @@ df_slice.rename(columns={'Drużyna' : 'Team', 'M' : 'Match',
 st.dataframe(df_slice, hide_index=True, width=615, height=528)
 
 # Open json file from github url
-with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/ClassA_result_after_5.json') as url:
+with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/ClassA_result_after_6.json') as url:
     data_after_5 = json.load(url)
 
 # Display of notes to the chart
