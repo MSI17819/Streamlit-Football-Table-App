@@ -63,7 +63,7 @@ df_slice.rename(columns={'Drużyna' : 'Team', 'M' : 'Match',
 st.dataframe(df_slice, hide_index=True, width=615, height=528)
 
 # Open json file from github url
-with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/ClassA_result_after_7.json') as url:
+with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/ClassA_result_after_6.json') as url:
     data_after_6 = json.load(url)
 
 # Display of notes to the chart
@@ -164,3 +164,23 @@ if st.button('Chart'):
                     fig.text(0.925, 0.150, team_name, fontsize=20, ha="left", color=value)
     
     st.pyplot(fig)
+
+df_players = pd.read_csv(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/ClassA_goals.csv',
+                         encoding='utf-8', delimiter=';')
+
+df_players = df_players.rename(columns={'Sum' : 'Goals'})
+
+df_players_slice = df_players.loc[:, ['Player', 'Team', 'Goals']]
+
+st.sidebar.header('Choose a team for the player with the most goals')
+
+sorted_unique_team = sorted(df_players_slice['Team'].unique())
+
+select_team = st.sidebar.multiselect('Team', sorted_unique_team, sorted_unique_team)
+
+df_selected_team = df_players_slice[(df_players_slice['Team'].isin(select_team))]
+
+st.markdown("""Players with the most goals""")
+
+st.dataframe(df_selected_team, hide_index=True, width=490, height=388)
+
