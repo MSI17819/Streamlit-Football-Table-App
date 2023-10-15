@@ -25,42 +25,69 @@ The chart shows each team's current position in the table after a round of match
 * **Data source:** [https://www.mzpnkrakow.pl/terminarze/2023-2024/seniorzy/a_krakow_3/](https://www.mzpnkrakow.pl/terminarze/2023-2024/seniorzy/a_krakow_3/)
 """)
 
-# MZPN url website
-url = 'https://www.mzpnkrakow.pl/terminarze/2023-2024/seniorzy/a_krakow_3/'
+c1, c2 = st.columns((55,45))
 
-response = requests.get(url)
+with c1:
+    
+    st.markdown("""Table""")
+    
+    # MZPN url website
+    url = 'https://www.mzpnkrakow.pl/terminarze/2023-2024/seniorzy/a_krakow_3/'
 
-# parse text
-soup = BeautifulSoup(response.text, 'html.parser')
+    response = requests.get(url)
 
-table = soup.find('table', {'id' : 'tabela', 'class' : 'table'})
+    # parse text
+    soup = BeautifulSoup(response.text, 'html.parser')
 
-# append header and rows lists from table object
-header = []
-rows = []
-for i, row in enumerate(table.find_all('tr')):
-    if i == 1:
-        header = [el.text.strip() for el in row.find_all('th')]
-    else:
-        rows.append([el.text.strip() for el in row.find_all('td')])
+    table = soup.find('table', {'id' : 'tabela', 'class' : 'table'})
 
-# Remowe empty list from start of rows list
-rows.remove([])
+    # append header and rows lists from table object
+    header = []
+    rows = []
+    for i, row in enumerate(table.find_all('tr')):
+        if i == 1:
+            header = [el.text.strip() for el in row.find_all('th')]
+        else:
+            rows.append([el.text.strip() for el in row.find_all('td')])
 
-# create dataframe from rows and header list
-df = pd.DataFrame([row for row in rows], columns=header)
+    # Remowe empty list from start of rows list
+    rows.remove([])
 
-# slice dataframe for desired columns
-df_slice = df.iloc[:, 0:8]
+    # create dataframe from rows and header list
+    df = pd.DataFrame([row for row in rows], columns=header)
 
-# Rename each column
-df_slice.rename(columns={'Drużyna' : 'Team', 'M' : 'Match', 
-                         'Pkt' : 'Points', 'Z' : 'Wins', 
-                         'R' : "Draws", 'P' : "Losses", 
-                         'Bramki' : 'Goals', 'Poz' : 'Position'}, inplace=True)
+    # slice dataframe for desired columns
+    df_slice = df.iloc[:, 0:8]
 
-# Display dataframe in stremlit
-st.dataframe(df_slice, hide_index=True, width=615, height=528)
+    # Rename each column
+    df_slice.rename(columns={'Drużyna' : 'Team', 'M' : 'Match', 
+                            'Pkt' : 'Points', 'Z' : 'Wins', 
+                            'R' : "Draws", 'P' : "Losses", 
+                            'Bramki' : 'Goals', 'Poz' : 'Position'}, inplace=True)
+
+    # Display dataframe in stremlit
+    st.dataframe(df_slice, hide_index=True, width=615, height=528)
+
+with c2:
+    
+    st.markdown("""Players with the most goals""")
+    
+    df_players = pd.read_csv(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/ClassA_goals.csv',
+                         encoding='utf-8', delimiter=';')
+
+    df_players = df_players.rename(columns={'Sum' : 'Goals'})
+
+    df_players_slice = df_players.loc[:, ['Player', 'Team', 'Goals']]
+
+    st.sidebar.header('Choose a team for the player with the most goals')
+
+    sorted_unique_team = sorted(df_players_slice['Team'].unique())
+
+    select_team = st.sidebar.multiselect('Team', sorted_unique_team, sorted_unique_team)
+
+    df_selected_team = df_players_slice[(df_players_slice['Team'].isin(select_team))]
+
+    st.dataframe(df_selected_team, hide_index=True, width=490, height=388)
 
 # Open json file from github url
 with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/ClassA_result_after_6.json') as url:
@@ -164,23 +191,4 @@ if st.button('Chart'):
                     fig.text(0.925, 0.150, team_name, fontsize=20, ha="left", color=value)
     
     st.pyplot(fig)
-
-df_players = pd.read_csv(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/ClassA_goals.csv',
-                         encoding='utf-8', delimiter=';')
-
-df_players = df_players.rename(columns={'Sum' : 'Goals'})
-
-df_players_slice = df_players.loc[:, ['Player', 'Team', 'Goals']]
-
-st.sidebar.header('Choose a team for the player with the most goals')
-
-sorted_unique_team = sorted(df_players_slice['Team'].unique())
-
-select_team = st.sidebar.multiselect('Team', sorted_unique_team, sorted_unique_team)
-
-df_selected_team = df_players_slice[(df_players_slice['Team'].isin(select_team))]
-
-st.markdown("""Players with the most goals""")
-
-st.dataframe(df_selected_team, hide_index=True, width=490, height=388)
 
