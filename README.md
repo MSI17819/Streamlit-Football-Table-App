@@ -14,7 +14,7 @@ Club Fb page - [Tramwaj Fb](https://www.facebook.com/tstramwaj)
 
 ### Dataset
 The dataset contains a table with each team's position, wins, losses, draws and goals.
-The table is linked to a graph where you can find the position of the team related to the number of matches played. Each point shows the position after matches of round 1, 2, 3 and is updated after each league round.
+The table is linked to a graph where you can find the position of the team related to the number of matches played. Each point shows the position after matches of round 1, 2, 3 and is updated after each league round. A JSON file with the team position is added after each round of matches. The last number in the file name indicates the round of matches. For example, the ClassA_result_after_8.json file contains the teams' positions in the table after the 8th round of matches played. The CSV file contains a list of players who have scored a goal or goals. The file is updated after each round of matches.
 
 ## Technology stack
 
