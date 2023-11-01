@@ -12,7 +12,9 @@ Club and academy website - [Tramwaj Kraków](https://tramwajkrakow.pl/)
 
 Club Fb page - [Tramwaj Fb](https://www.facebook.com/tstramwaj)
 
-Streamlit app in Polish [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aklasa.streamlit.app/) 
+Streamlit app A Class Kraków in Polish [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aklasa.streamlit.app/) 
+
+Streamlit app B Class Kraków in Polish [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://aklasa.streamlit.app/](https://bklasa.streamlit.app/)) 
 
 ### Dataset
 The dataset contains a table with each team's position, wins, losses, draws and goals.
