@@ -5,8 +5,7 @@
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSI17819)
 
 ### General information
-The Streamlit Football Table app showcases Kraków's Class A Group 3 football league. From a formal point of view, this is the 8th football league in Poland, if you count from Ekstraklasa (the highest level of football competition in Poland).
-As you can see it is a more amateur level, but we have a team with young players mainly from our academy.
+The Streamlit Football Table app showcases Kraków's Class A Group 3 football league and for secound Tramwaj Kraków team playing in Kraków Class B Group 3 (one league level lower than the first team). From a formal point of view, this is the 8th football league in Poland, if you count from Ekstraklasa (the highest level of football competition in Poland). As you can see it is a more amateur level, but we have a team with young players mainly from our academy.
 
 Club and academy website - [Tramwaj Kraków](https://tramwajkrakow.pl/) 
 
@@ -18,7 +17,7 @@ Streamlit app B Class Kraków in Polish [![Streamlit App](https://static.streaml
 
 ### Dataset
 The dataset contains a table with each team's position, wins, losses, draws and goals.
-The table is linked to a graph where you can find the position of the team related to the number of matches played. Each point shows the position after matches of round 1, 2, 3 and is updated after each league round. A JSON file with the team position is added after each round of matches. The last number in the file name indicates the round of matches. For example, the ClassA_result_after_8.json file contains the teams' positions in the table after the 8th round of matches. The CSV file contains a list of players who have scored. The file is updated after each round of matches.
+The table is linked to a graph where you can find the position of the team related to the number of matches played. Each point shows the position after matches of round 1, 2, 3 and is updated after each league round. A JSON file with the team position is added after each round of matches. The last number in the file name indicates the round of matches. For example, the ClassA_result_after_8.json file contains the teams' positions in the table after the 8th round of matches. The CSV file contains a list of players who have scored separately in A class and B class. The files are updated after each round of matches.
 
 ## Technology stack
 
