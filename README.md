@@ -1,15 +1,16 @@
 # Streamlit Football Table App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-football-table-app.streamlit.app/)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/tossingdata.svg?style=social&label=Follow%20%40tossingdata)](https://twitter.com/tossingdata)
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSI17819)
 
 ### General information
-The Streamlit Football Table app showcases Kraków's Class A Group 3 football league and for secound Tramwaj Kraków team playing in Kraków Class B Group 3 (one league level lower than the first team). From a formal point of view, this is the 8th football league in Poland, if you count from Ekstraklasa (the highest level of football competition in Poland). As you can see it is a more amateur level, but we have a team with young players mainly from our academy.
+The Streamlit Football Table app showcases Kraków's Class A Group 3 football league and for secound Tramwaj Kraków team playing in Kraków Class B Group 3 (one league level lower than the first team). From a formal point of view, this is the 8th and 9th football league in Poland, if you count from Ekstraklasa (the highest level of football competition in Poland). As you can see it is a more amateur level, but we have a team with young players mainly from our academy.
 
 Club and academy website - [Tramwaj Kraków](https://tramwajkrakow.pl/) 
 
 Club Fb page - [Tramwaj Fb](https://www.facebook.com/tstramwaj)
+
+Streamlit app A Class Kraków in English [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-football-table-app.streamlit.app/)
 
 Streamlit app A Class Kraków in Polish [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aklasa.streamlit.app/) 
 
