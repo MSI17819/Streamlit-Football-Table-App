@@ -14,7 +14,7 @@ Streamlit app A Class Group 3 Kraków in English [![Streamlit App](https://stati
 
 Streamlit app A Class Group 3 Kraków in Polish [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aklasa.streamlit.app/) 
 
-Streamlit app B Class Group 3 Kraków in Polish [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://aklasa.streamlit.app/](https://bklasa.streamlit.app/)) 
+Streamlit app B Class Group 3 Kraków in Polish [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://aklasa.streamlit.app/](https://bklasa.streamlit.app/)
 
 ### Dataset
 The dataset contains a table with each team's position, wins, losses, draws and goals.
