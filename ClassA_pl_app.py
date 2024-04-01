@@ -238,7 +238,7 @@ if st.button('Diagram wiosna'):
     fig, ax = bumpy.plot(
         x_list=match_day,  # match-day or match-week
         y_list=np.linspace(1, 14, 14).astype(int),  # position value from 1 to 20
-        values=data_spring  # values having positions for each team
+        values=data_spring,  # values having positions for each team
         secondary_alpha=0.4,   # alpha value for non-shaded lines/markers
         highlight_dict=highlight_dict,  # team to be highlighted with their colors
         figsize=(18, 8),  # size of the figure
