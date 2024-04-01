@@ -93,7 +93,7 @@ with c2:
 with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/ClassA_result_after_12.json') as url:
     data_after_6 = json.load(url)
 
-with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/Data/ClassA_resulat_after_1_spring.json') as url:
+with urllib.request.urlopen(r'https://github.com/MSI17819/Streamlit-Football-Table-App/blob/main/Data/ClassA_resulat_after_1_spring.json') as url:
     data_spring = json.load(url)
 
 # Display of notes to the chart
