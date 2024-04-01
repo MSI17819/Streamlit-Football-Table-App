@@ -90,14 +90,14 @@ with c2:
     st.dataframe(df_selected_team, hide_index=True, width=490, height=388)
 
 # Open json file from github url
-with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/Data/ClassA_result_after_13.json') as url:
-    data_after_6 = json.load(url)
+with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/ClassA_result_after_12.json') as url:
+    data_after_12 = json.load(url)
 
 # Display of notes to the chart
 st.markdown("""The chart shows the position and number of matches played for each team.""")
 
 # Start button
-if st.button('Chart'):
+if st.button('Chart autumn'):
     
     # Use bumpy chart from mplsoccer library
     
@@ -140,7 +140,7 @@ if st.button('Chart'):
     fig, ax = bumpy.plot(
         x_list=match_day,  # match-day or match-week
         y_list=np.linspace(1, 14, 14).astype(int),  # position value from 1 to 20
-        values=data_after_6,  # values having positions for each team
+        values=data_after_12,  # values having positions for each team
         secondary_alpha=0.4,   # alpha value for non-shaded lines/markers
         highlight_dict=highlight_dict,  # team to be highlighted with their colors
         figsize=(18, 8),  # size of the figure
@@ -150,7 +150,7 @@ if st.button('Chart'):
         )
 
     # title
-    TITLE = "Class A Group 3 season 2023/2024"
+    TITLE = "Class A Group 3 season 2023/2024 autumn"
     
     # add title
     fig.text(0.5, 0.99, TITLE, size=30, color="#222222", ha="center")
@@ -192,3 +192,101 @@ if st.button('Chart'):
     
     st.pyplot(fig)
 
+# Open json file from github url
+with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/Data/ClassA_resulat_after_1_spring.json') as url_spring:
+    data_spring = json.load(url_spring)
+
+if st.button('Chart spring'):
+    
+    # Use bumpy chart from mplsoccer library
+    
+    # match-week
+    match_day = [str(num) for num in range(1, 14)]
+
+    # highlight dict --> team to highlight and their corresponding colors
+    highlight_dict = {'FAIRANT KRAKÓW' : "#fe0000",
+                    'NADWIŚLAN KRAKÓW' : "#800001",
+                    'TRZEBOL WIELKIE DROGI' : "#d65b02",
+                    'BOREK KRAKÓW' : "#9c5d63",
+                    'RADZISZOWIANKA II RADZISZÓW' : "#ffd800",
+                    'PŁOMIEŃ KOSTRZE' : "#806b00",
+                    'TRAMWAJ KRAKÓW' : "#0026ff",
+                    'GAJOWIANKA GAJ' : "#029615",
+                    'STRZELCY KRAKÓW' : "#005909",
+                    'CEDRONKA WOLA RADZISZOWSKA' : "#012742",
+                    'PODGÓRZE KRAKÓW' : "#00497e",
+                    'ZWIERZYNIECKI KRAKÓW' : "#001280",
+                    'DĄBSKI KRAKÓW' : "#b100fe",
+                    'ISKRA KRZĘCIN' : "#7f2b0a"
+                    }
+     
+    # instantiate object
+    bumpy = Bumpy(
+        background_color="#9a9a9a", scatter_color="#a6a6a6",
+        label_color="#000000", line_color="#C0C0C0",
+        rotate_xticks=None,  # rotate x-ticks by 90 degrees
+        ticklabel_size=20, label_size=22,  # ticklable and label font-size
+        scatter_points='D',   # other markers
+        scatter_primary='o',  # marker to be used for teams
+        scatter_size=150,   # size of the marker
+        show_right=True,  # show position on the rightside
+        plot_labels=True,  # plot the labels
+        alignment_yvalue=0.1,  # y label alignment
+        alignment_xvalue=0.065  # x label alignment
+        )
+
+    # plot bumpy chart
+    fig, ax = bumpy.plot(
+        x_list=match_day,  # match-day or match-week
+        y_list=np.linspace(1, 14, 14).astype(int),  # position value from 1 to 20
+        values=data_spring,  # values having positions for each team
+        secondary_alpha=0.4,   # alpha value for non-shaded lines/markers
+        highlight_dict=highlight_dict,  # team to be highlighted with their colors
+        figsize=(18, 8),  # size of the figure
+        x_label='Match no.', y_label='Table position',  # label name
+        ylim=(-0.1, 15),  # y-axis limit
+        lw=2.0 # linewidth of the connecting lines
+        )
+
+    # title
+    TITLE = "Class A Group 3 season 2023/2024 spring"
+    
+    # add title
+    fig.text(0.5, 0.99, TITLE, size=30, color="#222222", ha="center")
+    
+    # add color from highlite_dict to assigned team
+    for idx, val in enumerate(df_slice['Team']):
+        # Using only the first word of the team name
+        team_name = val.split()[0]
+        for key, value in highlight_dict.items():
+            if val == key:
+                if idx == 0:
+                    fig.text(0.92, 0.820, team_name, size=20, ha="left", color=value)
+                elif idx == 1:
+                    fig.text(0.92, 0.765, team_name, fontsize=20, ha="left", color=value)
+                elif idx == 2:
+                    fig.text(0.92, 0.710, team_name, fontsize=20, ha="left", color=value)
+                elif idx == 3:
+                    fig.text(0.92, 0.660, team_name, fontsize=20, ha="left", color=value)
+                elif idx == 4:
+                    fig.text(0.92, 0.610, team_name, fontsize=20, ha="left", color=value)
+                elif idx == 5:
+                    fig.text(0.92, 0.560, team_name, fontsize=20, ha="left", color=value)
+                elif idx == 6:
+                    fig.text(0.92, 0.510, team_name, fontsize=20, ha="left", color=value)
+                elif idx == 7:
+                    fig.text(0.92, 0.458, team_name, fontsize=20, ha="left", color=value)
+                elif idx == 8:
+                    fig.text(0.92, 0.408, team_name, fontsize=20, ha="left", color=value)
+                elif idx == 9:
+                    fig.text(0.925, 0.355, team_name, fontsize=20, ha="left", color=value)
+                elif idx == 10:
+                    fig.text(0.925, 0.305, team_name, fontsize=20, ha="left", color=value)
+                elif idx == 11:
+                    fig.text(0.925, 0.255, team_name, fontsize=20, ha="left", color=value)
+                elif idx == 12:
+                    fig.text(0.925, 0.205, team_name, fontsize=20, ha="left", color=value)
+                else:
+                    fig.text(0.925, 0.150, team_name, fontsize=20, ha="left", color=value)
+    
+    st.pyplot(fig)
