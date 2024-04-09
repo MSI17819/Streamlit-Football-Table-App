@@ -192,7 +192,7 @@ if st.button('Diagram jesień'):
     
     st.pyplot(fig)
 
-with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/Data/ClassA_resulat_after_1_spring.json') as url_spring:
+with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/Data/ClassA_result_after_2_spring.json') as url_spring:
     data_spring = json.load(url_spring)
 
 if st.button('Diagram wiosna'):
