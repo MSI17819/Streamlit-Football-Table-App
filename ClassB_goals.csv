@@ -1,139 +1,143 @@
-﻿Player;Team;Matchweek 1;Matchweek 2;Matchweek 3;Matchweek 4;Matchweek 5;Matchweek 6;Matchweek 7;Matchweek 8;Matchweek 9;Matchweek 10;Matchweek 11;Sum
-Piotr Góral;Pychowianka Kraków;;1;1;1;1;;;;5;;;9
-Njabulo Dube;Pogoń II Skotniki;1;1;;;3;;1;;;1;1;8
-Andrii Stasenkov;Opatkowianka Kraków;;1;;;;;2;;;2;2;7
-Piotr Gołdowski;Opatkowianka Kraków;2;;;1;2;;;1;;;;6
-Bartosz Kidoń;Pychowianka Kraków;2;;;;1;;;1;1;;;5
-Sławomir Danek;Opatkowianka Kraków;1;1;1;;;;;;1;1;;5
-Marcin Mazur;Universum Kraków;1;1;;1;;;1;;;1;;5
-Jakub Pulchny;Klub Sportowy Tyniec;;1;;;;;;;;2;2;5
-Jakub Dąbrowski;Pogoń II Skotniki;;;;;;;;;1;2;2;5
-Stanisław Olejniczak;Pogoń II Skotniki;1;;1;;1;;1;;;;;4
-Paweł Szafran;Krakus Swoszowice;1;1;;2;;;;;;;;4
-Oleksandr Blahinin;Tramwaj II Kraków;1;;;1;;;;1;1;;;4
-Paweł Nawrocki;Pychowianka Kraków;2;;1;;;;;1;;;;4
-Wiktor Gawłowski;Bieżanowianka II Kraków;;1;1;;;1;;;1;;;4
-Dawid Chrustowski;Pogoń II Skotniki;;1;;;;1;;;2;;;4
-Kacper Moskal;Tramwaj II Kraków;;1;;;1;;;1;1;;;4
-Tomasz Piotrowski;Pychowianka Kraków;;;1;;;;;2;1;;;4
-Bartosz Judasz;Universum Kraków;;3;;;;;;;;1;;4
-Patryk Kubański;Kolejarz-Prokocim II Kraków;;;1;;;;;1;1;1;;4
-Bartosz Cioch;Bieżanowianka II Kraków;;;1;1;1;;;;;;1;4
-Amadeusz Bufnal;Opatkowianka Kraków;1;;;;1;;;;;;2;4
-Kasper Tekiela;Tramwaj II Kraków;2;;1;;;;;;;;;3
-Kamil Rokosz;Kolejarz-Prokocim II Kraków;3;;;;;;;;;;;3
-Dawid Rybałtowski;Kolejarz-Prokocim II Kraków;;1;;;1;;;;1;;;3
-Oleksii Lehenkyi;Płomień II Kostrze;;;1;;;2;;;;;;3
-Wiktor Wojciechowski;Victoria Kraków;;;1;2;;;;;;;;3
-Kamil Konik;Pychowianka Kraków;;;;1;;1;1;;;;;3
-Paweł Łytek;Opatkowianka Kraków;;;;3;;;;;;;;3
-Karol Kuraś;Albertus Kraków;;;;;1;;2;;;;;3
-Karol Guzik;Victoria Kraków;1;;;;;;1;;;1;;3
-Jan Wolak;Bieżanowianka II Kraków;1;;;;;;;;;2;;3
-Daanyaal Ebrahim;Płomień II Kostrze;;;;;1;;;;;2;;3
-Fabian Dobek;Tramwaj II Kraków;;;;2;;;;;;;1;3
-Jakub Kaleta;Bieżanowianka II Kraków;;;;;;1;;;1;;1;3
-Piotr Kaleta;Bieżanowianka II Kraków;;;;;1;;;;;1;1;3
-Kacper Juszczyk;Bieżanowianka II Kraków;;;;;;;;;1;1;1;3
-Krzysztof Musiał;Universum Kraków;;;;;;;;;;2;1;3
-Jarosław Grych;Pychowianka Kraków;;;;;;;;1;;;2;3
-Dominik Pruss;Pogoń II Skotniki;1;1;;;;;;;;;;2
-Przemysław Bartyzel;Tramwaj II Kraków;1;1;;;;;;;;;;2
-Jakub Leśniak;Tramwaj II Kraków;1;;;;;;1;;;;;2
-Łukasz Dulemna;Opatkowianka Kraków;1;;1;;;;;;;;;2
-Piotr Madej;Universum Kraków;1;;1;;;;;;;;;2
-Łukasz Śladowski;Victoria Kraków;1;;;;;;1;;;;;2
-Mateusz Brandys;Klub Sportowy Tyniec;;1;;;1;;;;;;;2
-Hubert Wasilewski;Kolejarz-Prokocim II Kraków;;1;;;;;1;;;;;2
-Tomasz Sikora;Pogoń II Skotniki;;1;;;;1;;;;;;2
-Maksymilian Zięba;Pogoń II Skotniki;;2;;;;;;;;;;2
-Kamil Myśliwiec;Universum Kraków;;2;;;;;;;;;;2
-Szymon Łoboda;Tramwaj II Kraków;;2;;;;;;;;;;2
-Jakub Kostrz;Tramwaj II Kraków;;;1;;;;1;;;;;2
-Kewin Mrowiec;Klub Sportowy Tyniec;;;1;;;1;;;;;;2
-Adam Choina;Universum Kraków;;;1;;1;;;;;;;2
-Patryk Kopiejka;Pogoń II Skotniki;;;2;;;;;;;;;2
-Paweł Ptaszek;Victoria Kraków;;;1;;;;;;1;;;2
-Maciej Przybyłko;Albertus Kraków;;;;1;;;;1;;;;2
-Patryk Lalik;Klub Sportowy Tyniec;;;;1;;1;;;;;;2
-Kacper Szułdzyński;Pogoń II Skotniki;;;;;1;1;;;;;;2
-Marek Pałach;Pychowianka Kraków;;;;;1;;1;;;;;2
-Maciej Matyjewicz;Pychowianka Kraków;;;;;1;;;1;;;;2
-Maciej Luty;Tramwaj II Kraków;;;;;;2;;;;;;2
-Mateusz Orecki;Płomień II Kostrze;;;;;;2;;;;;;2
-Mikołaj Wcisło;Victoria Kraków;;;;;;2;;;;;;2
-Bartłomiej Dziuban;Universum Kraków;;;;;;2;;;;;;2
-Wojciech Janus;Krakus Swoszowice;;;;;;2;;;;;;2
-Marek Żuwała;Kolejarz-Prokocim II Kraków;;;;;;;;;1;1;;2
-Patryk Kolmajer;Albertus Kraków;;;;;;;;;;2;;2
-Kacper Judasz;Universum Kraków;;;;;;;;;;2;;2
-Kamil Samołyk;Universum Kraków;;;;;;;;;1;;1;2
-Marcin Trepa;Pychowianka Kraków;;;;;;;;;;1;1;2
-Bartłomiej Osuch;Tramwaj II Kraków;;;;;;;;;;;2;2
-Sebastian Daczka;Pogoń II Skotniki;1;;;;;;;;;;;1
-Mariusz Śmiech;Krakus Swoszowice;1;;;;;;;;;;;1
-Mateusz Weremczuk;Opatkowianka Kraków;1;;;;;;;;;;;1
-Adam Sosnowski;Universum Kraków;1;;;;;;;;;;;1
-Jakub Pałach;Pychowianka Kraków;1;;;;;;;;;;;1
-Mariusz Szczyrbak;Kolejarz-Prokocim II Kraków;1;;;;;;;;;;;1
-Michał Niźnik;Kolejarz-Prokocim II Kraków;1;;;;;;;;;;;1
-Kacper Michalski;Płomień II Kostrze;;1;;;;;;;;;;1
-Rekai Tanaka Musiyazviriyo;Płomień II Kostrze;;1;;;;;;;;;;1
-Krystian Szkarłat;Płomień II Kostrze;;1;;;;;;;;;;1
-Jakub Kapela;Krakus Swoszowice;;1;;;;;;;;;;1
-Szymon Robaczyński;Kolejarz-Prokocim II Kraków;;1;;;;;;;;;;1
-Wojciech Socha;Kolejarz-Prokocim II Kraków;;1;;;;;;;;;;1
-Marcin Kotylka;Opatkowianka Kraków;;1;;;;;;;;;;1
-Łukasz Zdebski;Pychowianka Kraków;;1;;;;;;;;;;1
-Filip Kuryło;Universum Kraków;;1;;;;;;;;;;1
-Mateusz Lasoń;Victoria Kraków;;1;;;;;;;;;;1
-Grzegorz Szafraniec;Bieżanowianka II Kraków;;;1;;;;;;;;;1
-Kamil Rojewski;Tramwaj II Kraków;;;1;;;;;;;;;1
-Marcin Dulemba;Opatkowianka Kraków;;;1;;;;;;;;;1
-Łukasz Szostak;Klub Sportowy Tyniec;;;1;;;;;;;;;1
-Kamil Jurczyk;Pychowianka Kraków;;;1;;;;;;;;;1
-Michał Pal;Płomień II Kostrze;;;1;;;;;;;;;1
-Jan Nęciński;Płomień II Kostrze;;;1;;;;;;;;;1
-Adam Augustyn;Victoria Kraków;;;1;;;;;;;;;1
-Łukasz Małecki;Kolejarz-Prokocim II Kraków;;;1;;;;;;;;;1
-Maciej Chmura;Płomień II Kostrze;;;;1;;;;;;;;1
-Maciej Komorowski;Płomień II Kostrze;;;;1;;;;;;;;1
-Mateusz Chorązki;Pychowianka Kraków;;;;1;;;;;;;;1
-Paweł Półtorak;Krakus Swoszowice;;;;1;;;;;;;;1
-Laszlo Gerlei Gonzalez;Krakus Swoszowice;;;;1;;;;;;;;1
-Szymon Porębski;Albertus Kraków;;;;1;;;;;;;;1
-Michał Tabuła;Albertus Kraków;;;;1;;;;;;;;1
-Dawid Małysa;Klub Sportowy Tyniec;;;;1;;;;;;;;1
-Bartłomiej Białoskórski;Pogoń II Skotniki;;;;;1;;;;;;;1
-Munyaradzi Mwakanya;Pogoń II Skotniki;;;;;1;;;;;;;1
-Rafał Kwieciński;Victoria Kraków;;;;;1;;;;;;;1
-Jakub Hazior;Tramwaj II Kraków;;;;;1;;;;;;;1
-Szymon Moskal;Tramwaj II Kraków;;;;;1;;;;;;;1
-Konrad Konik;Pychowianka Kraków;;;;;1;;;;;;;1
-Jakub Chlipała;Bieżanowianka II Kraków;;;;;;1;;;;;;1
-Hubert Machalski;Bieżanowianka II Kraków;;;;;;1;;;;;;1
-Krzystof Wronka;Płomień II Kostrze;;;;;;1;;;;;;1
-Tymoteusz Lipowicz;Victoria Kraków;;;;;;1;;;;;;1
-Mariusz Kurleto;Opatkowianka Kraków;;;;;;1;;;;;;1
-Filip Jamróz;Pogoń II Skotniki;;;;;;;1;;;;;1
-Kamil Misiura;Krakus Swoszowice;;;;;;;1;;;;;1
-Piotr Dusiło;Bieżanowianka II Kraków;;;;;;;;1;;;;1
-Tomasz Wojdyła;Pychowianka Kraków;;;;;;;;1;;;;1
-Rafał Mrowiec;Victoria Kraków;;;;;;;;1;;;;1
-Marcin Satoła;Victoria Kraków;;;;;;;;1;;;;1
-Kamil Juras;Bieżanowianka II Kraków;;;;;;;;;1;;;1
-Adrian Filipek;Pogoń II Skotniki;;;;;;;;;1;;;1
-Dogukan Ozdemir;Klub Sportowy Tyniec;;;;;;;;;1;;;1
-Szymon Jachymek;Kolejarz-Prokocim II Kraków;;;;;;;;;1;;;1
-Dariusz Tomczuk;Kolejarz-Prokocim II Kraków;;;;;;;;;1;;;1
-Bartosz Trojanowski;Kolejarz-Prokocim II Kraków;;;;;;;;;1;;;1
-Bartłomiej Żurek;Płomień II Kostrze;;;;;;;;;1;;;1
-Andrzej Stryszowski;Płomień II Kostrze;;;;;;;;;1;;;1
-Mateusz Dziedzic;Pogoń II Skotniki;;;;;;;;;;1;;1
-Grzegorz Misina;Universum Kraków;;;;;;;;;;1;;1
-Adrian Łukaszewski;Krakus Swoszowice;;;;;;;;;;1;;1
-Radosław Piotrowski;Krakus Swoszowice;;;;;;;;;;1;;1
-Bartłomiej Zając;Krakus Swoszowice;;;;;;;;;;1;;1
-Jakub Kukułka;Klub Sportowy Tyniec;;;;;;;;;;;1;1
-Patryk Toczek;Opatkowianka Kraków;;;;;;;;;;;1;1
-Mateusz Ostrowski;Pogoń II Skotniki;;;;;;;;;;;1;1
+﻿Player;Team;Matchweek 1;Matchweek 2;Matchweek 3;Matchweek 4;Matchweek 5;Matchweek 6;Matchweek 7;Matchweek 8;Matchweek 9;Matchweek 10;Matchweek 11;Matchweek 12;Sum
+Piotr Góral;Pychowianka Kraków;;1;1;1;1;;;;5;;;;9
+Njabulo Dube;Pogoń II Skotniki;1;1;;;3;;1;;;1;1;;8
+Piotr Gołdowski;Opatkowianka Kraków;2;;;1;2;;;1;;;;2;8
+Andrii Stasenkov;Opatkowianka Kraków;;1;;;;;2;;;2;2;;7
+Oleksandr Blahinin;Tramwaj II Kraków;1;;;1;;;;1;1;;;2;6
+Bartosz Kidoń;Pychowianka Kraków;2;;;;1;;;1;1;;;;5
+Sławomir Danek;Opatkowianka Kraków;1;1;1;;;;;;1;1;;;5
+Marcin Mazur;Universum Kraków;1;1;;1;;;1;;;1;;;5
+Jakub Pulchny;Klub Sportowy Tyniec;;1;;;;;;;;2;2;;5
+Jakub Dąbrowski;Pogoń II Skotniki;;;;;;;;;1;2;2;;5
+Dawid Chrustowski;Pogoń II Skotniki;;1;;;;1;;;2;;;1;5
+Bartosz Cioch;Bieżanowianka II Kraków;;;1;1;1;;;;;;1;1;5
+Amadeusz Bufnal;Opatkowianka Kraków;1;;;;1;;;;;;2;1;5
+Piotr Kaleta;Bieżanowianka II Kraków;;;;;1;;;;;1;1;2;5
+Stanisław Olejniczak;Pogoń II Skotniki;1;;1;;1;;1;;;;;;4
+Paweł Szafran;Krakus Swoszowice;1;1;;2;;;;;;;;;4
+Paweł Nawrocki;Pychowianka Kraków;2;;1;;;;;1;;;;;4
+Wiktor Gawłowski;Bieżanowianka II Kraków;;1;1;;;1;;;1;;;;4
+Kacper Moskal;Tramwaj II Kraków;;1;;;1;;;1;1;;;;4
+Tomasz Piotrowski;Pychowianka Kraków;;;1;;;;;2;1;;;;4
+Bartosz Judasz;Universum Kraków;;3;;;;;;;;1;;;4
+Patryk Kubański;Kolejarz-Prokocim II Kraków;;;1;;;;;1;1;1;;;4
+Karol Kuraś;Albertus Kraków;;;;;1;;2;;;;;1;4
+Kasper Tekiela;Tramwaj II Kraków;2;;1;;;;;;;;;;3
+Kamil Rokosz;Kolejarz-Prokocim II Kraków;3;;;;;;;;;;;;3
+Dawid Rybałtowski;Kolejarz-Prokocim II Kraków;;1;;;1;;;;1;;;;3
+Oleksii Lehenkyi;Płomień II Kostrze;;;1;;;2;;;;;;;3
+Wiktor Wojciechowski;Victoria Kraków;;;1;2;;;;;;;;;3
+Kamil Konik;Pychowianka Kraków;;;;1;;1;1;;;;;;3
+Paweł Łytek;Opatkowianka Kraków;;;;3;;;;;;;;;3
+Karol Guzik;Victoria Kraków;1;;;;;;1;;;1;;;3
+Jan Wolak;Bieżanowianka II Kraków;1;;;;;;;;;2;;;3
+Daanyaal Ebrahim;Płomień II Kostrze;;;;;1;;;;;2;;;3
+Fabian Dobek;Tramwaj II Kraków;;;;2;;;;;;;1;;3
+Jakub Kaleta;Bieżanowianka II Kraków;;;;;;1;;;1;;1;;3
+Kacper Juszczyk;Bieżanowianka II Kraków;;;;;;;;;1;1;1;;3
+Krzysztof Musiał;Universum Kraków;;;;;;;;;;2;1;;3
+Jarosław Grych;Pychowianka Kraków;;;;;;;;1;;;2;;3
+Jakub Kostrz;Tramwaj II Kraków;;;1;;;;1;;;;;1;3
+Wojciech Janus;Krakus Swoszowice;;;;;;2;;;;;;1;3
+Dominik Pruss;Pogoń II Skotniki;1;1;;;;;;;;;;;2
+Przemysław Bartyzel;Tramwaj II Kraków;1;1;;;;;;;;;;;2
+Jakub Leśniak;Tramwaj II Kraków;1;;;;;;1;;;;;;2
+Łukasz Dulemna;Opatkowianka Kraków;1;;1;;;;;;;;;;2
+Piotr Madej;Universum Kraków;1;;1;;;;;;;;;;2
+Łukasz Śladowski;Victoria Kraków;1;;;;;;1;;;;;;2
+Mateusz Brandys;Klub Sportowy Tyniec;;1;;;1;;;;;;;;2
+Hubert Wasilewski;Kolejarz-Prokocim II Kraków;;1;;;;;1;;;;;;2
+Tomasz Sikora;Pogoń II Skotniki;;1;;;;1;;;;;;;2
+Maksymilian Zięba;Pogoń II Skotniki;;2;;;;;;;;;;;2
+Kamil Myśliwiec;Universum Kraków;;2;;;;;;;;;;;2
+Szymon Łoboda;Tramwaj II Kraków;;2;;;;;;;;;;;2
+Kewin Mrowiec;Klub Sportowy Tyniec;;;1;;;1;;;;;;;2
+Adam Choina;Universum Kraków;;;1;;1;;;;;;;;2
+Patryk Kopiejka;Pogoń II Skotniki;;;2;;;;;;;;;;2
+Paweł Ptaszek;Victoria Kraków;;;1;;;;;;1;;;;2
+Maciej Przybyłko;Albertus Kraków;;;;1;;;;1;;;;;2
+Patryk Lalik;Klub Sportowy Tyniec;;;;1;;1;;;;;;;2
+Kacper Szułdzyński;Pogoń II Skotniki;;;;;1;1;;;;;;;2
+Marek Pałach;Pychowianka Kraków;;;;;1;;1;;;;;;2
+Maciej Matyjewicz;Pychowianka Kraków;;;;;1;;;1;;;;;2
+Maciej Luty;Tramwaj II Kraków;;;;;;2;;;;;;;2
+Mateusz Orecki;Płomień II Kostrze;;;;;;2;;;;;;;2
+Mikołaj Wcisło;Victoria Kraków;;;;;;2;;;;;;;2
+Bartłomiej Dziuban;Universum Kraków;;;;;;2;;;;;;;2
+Marek Żuwała;Kolejarz-Prokocim II Kraków;;;;;;;;;1;1;;;2
+Patryk Kolmajer;Albertus Kraków;;;;;;;;;;2;;;2
+Kacper Judasz;Universum Kraków;;;;;;;;;;2;;;2
+Kamil Samołyk;Universum Kraków;;;;;;;;;1;;1;;2
+Marcin Trepa;Pychowianka Kraków;;;;;;;;;;1;1;;2
+Bartłomiej Osuch;Tramwaj II Kraków;;;;;;;;;;;2;;2
+Grzegorz Szafraniec;Bieżanowianka II Kraków;;;1;;;;;;;;;1;2
+Dawid Małysa;Klub Sportowy Tyniec;;;;1;;;;;;;;1;2
+Jakub Chlipała;Bieżanowianka II Kraków;;;;;;1;;;;;;1;2
+Michał Luraniec;Klub Sportowy Tyniec;;;;;;;;;;;;2;2
+Kacper Prusak;Klub Sportowy Tyniec;;;;;;;;;;;;2;2
+Sebastian Daczka;Pogoń II Skotniki;1;;;;;;;;;;;;1
+Mariusz Śmiech;Krakus Swoszowice;1;;;;;;;;;;;;1
+Mateusz Weremczuk;Opatkowianka Kraków;1;;;;;;;;;;;;1
+Adam Sosnowski;Universum Kraków;1;;;;;;;;;;;;1
+Jakub Pałach;Pychowianka Kraków;1;;;;;;;;;;;;1
+Mariusz Szczyrbak;Kolejarz-Prokocim II Kraków;1;;;;;;;;;;;;1
+Michał Niźnik;Kolejarz-Prokocim II Kraków;1;;;;;;;;;;;;1
+Kacper Michalski;Płomień II Kostrze;;1;;;;;;;;;;;1
+Rekai Tanaka Musiyazviriyo;Płomień II Kostrze;;1;;;;;;;;;;;1
+Krystian Szkarłat;Płomień II Kostrze;;1;;;;;;;;;;;1
+Jakub Kapela;Krakus Swoszowice;;1;;;;;;;;;;;1
+Szymon Robaczyński;Kolejarz-Prokocim II Kraków;;1;;;;;;;;;;;1
+Wojciech Socha;Kolejarz-Prokocim II Kraków;;1;;;;;;;;;;;1
+Marcin Kotylka;Opatkowianka Kraków;;1;;;;;;;;;;;1
+Łukasz Zdebski;Pychowianka Kraków;;1;;;;;;;;;;;1
+Filip Kuryło;Universum Kraków;;1;;;;;;;;;;;1
+Mateusz Lasoń;Victoria Kraków;;1;;;;;;;;;;;1
+Kamil Rojewski;Tramwaj II Kraków;;;1;;;;;;;;;;1
+Marcin Dulemba;Opatkowianka Kraków;;;1;;;;;;;;;;1
+Łukasz Szostak;Klub Sportowy Tyniec;;;1;;;;;;;;;;1
+Kamil Jurczyk;Pychowianka Kraków;;;1;;;;;;;;;;1
+Michał Pal;Płomień II Kostrze;;;1;;;;;;;;;;1
+Jan Nęciński;Płomień II Kostrze;;;1;;;;;;;;;;1
+Adam Augustyn;Victoria Kraków;;;1;;;;;;;;;;1
+Łukasz Małecki;Kolejarz-Prokocim II Kraków;;;1;;;;;;;;;;1
+Maciej Chmura;Płomień II Kostrze;;;;1;;;;;;;;;1
+Maciej Komorowski;Płomień II Kostrze;;;;1;;;;;;;;;1
+Mateusz Chorązki;Pychowianka Kraków;;;;1;;;;;;;;;1
+Paweł Półtorak;Krakus Swoszowice;;;;1;;;;;;;;;1
+Laszlo Gerlei Gonzalez;Krakus Swoszowice;;;;1;;;;;;;;;1
+Szymon Porębski;Albertus Kraków;;;;1;;;;;;;;;1
+Michał Tabuła;Albertus Kraków;;;;1;;;;;;;;;1
+Bartłomiej Białoskórski;Pogoń II Skotniki;;;;;1;;;;;;;;1
+Munyaradzi Mwakanya;Pogoń II Skotniki;;;;;1;;;;;;;;1
+Rafał Kwieciński;Victoria Kraków;;;;;1;;;;;;;;1
+Jakub Hazior;Tramwaj II Kraków;;;;;1;;;;;;;;1
+Szymon Moskal;Tramwaj II Kraków;;;;;1;;;;;;;;1
+Konrad Konik;Pychowianka Kraków;;;;;1;;;;;;;;1
+Hubert Machalski;Bieżanowianka II Kraków;;;;;;1;;;;;;;1
+Krzystof Wronka;Płomień II Kostrze;;;;;;1;;;;;;;1
+Tymoteusz Lipowicz;Victoria Kraków;;;;;;1;;;;;;;1
+Mariusz Kurleto;Opatkowianka Kraków;;;;;;1;;;;;;;1
+Filip Jamróz;Pogoń II Skotniki;;;;;;;1;;;;;;1
+Kamil Misiura;Krakus Swoszowice;;;;;;;1;;;;;;1
+Piotr Dusiło;Bieżanowianka II Kraków;;;;;;;;1;;;;;1
+Tomasz Wojdyła;Pychowianka Kraków;;;;;;;;1;;;;;1
+Rafał Mrowiec;Victoria Kraków;;;;;;;;1;;;;;1
+Marcin Satoła;Victoria Kraków;;;;;;;;1;;;;;1
+Kamil Juras;Bieżanowianka II Kraków;;;;;;;;;1;;;;1
+Adrian Filipek;Pogoń II Skotniki;;;;;;;;;1;;;;1
+Dogukan Ozdemir;Klub Sportowy Tyniec;;;;;;;;;1;;;;1
+Szymon Jachymek;Kolejarz-Prokocim II Kraków;;;;;;;;;1;;;;1
+Dariusz Tomczuk;Kolejarz-Prokocim II Kraków;;;;;;;;;1;;;;1
+Bartosz Trojanowski;Kolejarz-Prokocim II Kraków;;;;;;;;;1;;;;1
+Bartłomiej Żurek;Płomień II Kostrze;;;;;;;;;1;;;;1
+Andrzej Stryszowski;Płomień II Kostrze;;;;;;;;;1;;;;1
+Mateusz Dziedzic;Pogoń II Skotniki;;;;;;;;;;1;;;1
+Grzegorz Misina;Universum Kraków;;;;;;;;;;1;;;1
+Adrian Łukaszewski;Krakus Swoszowice;;;;;;;;;;1;;;1
+Radosław Piotrowski;Krakus Swoszowice;;;;;;;;;;1;;;1
+Bartłomiej Zając;Krakus Swoszowice;;;;;;;;;;1;;;1
+Jakub Kukułka;Klub Sportowy Tyniec;;;;;;;;;;;1;;1
+Patryk Toczek;Opatkowianka Kraków;;;;;;;;;;;1;;1
+Mateusz Ostrowski;Pogoń II Skotniki;;;;;;;;;;;1;;1
+Krystian Siemieński;Kolejarz-Prokocim II Kraków;;;;;;;;;;;;1;1
+Szymon Malina;Tramwaj II Kraków;;;;;;;;;;;;1;1
