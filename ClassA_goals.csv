@@ -1,180 +1,183 @@
-﻿Player;Team;Matchweek 1;Matchweek 2;Matchweek 3;Matchweek 4;Matchweek 5;Matchweek 6;Matchweek 7;Matchweek 8;Matchweek 9;Matchweek 10;Matchweek 11;Matchweek 12;Matchweek 13;Matchweek 14;Matchweek 16;Matchweek 17;Matchweek 17;Matchweek 18;Matchweek 19;Sum
-Wojciech Ochałek;Podgórze Kraków;;1;;;1;;;;4;3;1;3;3;;1;1;;;;18
-Eryk Sikora;Dąbski Kraków;1;;;2;;1;;;1;1;;4;;3;;;;;;13
-Adam Brzeźniak;Tramwaj Kraków;;1;1;3;3;;;;1;1;;;;;1;1;;1;;13
-Maciej Wcisło;Borek Kraków;;;;;;;2;;1;;1;1;1;2;1;;2;;1;12
-Kamil Sekuła;Iskra Krzęcin;;1;;;2;;1;;;;2;;2;1;;;;;3;12
-Paweł Koczwara;Zwierzyniecki Kraków;;;;;3;1;;;;;1;1;1;1;1;1;;;;10
-Michał Ścieszka;Nadwiślan Kraków;;1;3;;;1;;1;;;1;1;;;1;;;1;;10
-Kacper Janik;Radziszowianka II Radziszów;1;1;1;;3;1;2;;;;;;;;;;;;;9
-Mateusz Bucki;Cedronka Wola Radziszowska;1;;;;;1;;;1;5;;;;;;;;1;;9
-Adrian Prajsnar;Nadwiślan Kraków;;1;;;1;2;;1;;;;1;;;1;;;2;;9
-Bartłomiej Pasierbek;Iskra Krzęcin;;;;;1;1;;2;1;;;;2;;;1;;;;8
-Tomasz Tychoniak;Radziszowianka II Radziszów;1;;;;2;;;1;;;;1;;;;;3;;;8
-Mirosław Podgajny;Dąbski Kraków;;;;1;1;;1;;3;;;1;;;;;;;;7
-Kamil Wcisło;Płomień Kostrze;1;1;;;;;;1;;2;;2;;;;;;;;7
-Andrzej Stryszowski;Płomień Kostrze;;2;2;;;1;;;;;;;;;1;1;;;;7
-Jakub Paciorek;Radziszowianka II Radziszów;;;;;1;;;1;;2;;2;;;;;1;;;7
-Clifff Cockrill;Płomień Kostrze;;;1;1;;;;;;1;;;2;;;1;1;;;7
-Konrad Kozioł;Borek Kraków;;2;;;1;;;;1;;1;;;;1;;;;1;7
-Filip Madejski;Borek Kraków;;;;;;1;;;1;;;;;1;1;1;;1;1;7
-Tomasz Ziarko;Iskra Krzęcin;;;;;;1;1;2;;1;;;;;;;;;2;7
-Dariusz Osuch;Tramwaj Kraków;1;;;1;;;;;;;1;2;1;;;;;;;6
-Jakub Marczak;Podgórze Kraków;;;;1;;;;2;1;;;;1;1;;;;;;6
-Jarosław Dziura;Zwierzyniecki Kraków;;;;;;;;2;;;1;1;1;1;;;;;;6
-Piotr Fuss;Iskra Krzęcin;;4;;;;;;;;;;;1;;1;;;;;6
-Jakub Kałduś;Borek Kraków;1;1;;1;1;;;;;;;;;1;1;;;;;6
-Kamil Gadocha;Gajowianka Gaj;;1;1;1;1;;;;1;;;;;;;1;;;;6
-Bryan Maurer;Nadwiślan Kraków;1;;2;;;;;;;;;;1;1;;;1;;;6
-Szymon Moskal;Tramwaj Kraków;;;;2;;;;1;1;;;;;;;;1;;1;6
-Grzegorz Noga;Dąbski Kraków;;;2;1;;;;2;;;;;;;;;;;;5
-Łukasz Froń;Podgórze Kraków;;;;;;;;;3;2;;;;;;;;;;5
-Arkadiusz Czwartek;Iskra Krzęcin;;2;;;;;;;;2;;;;1;;;;;;5
-Mateusz Jędrysiak;Dąbski Kraków;;;;;;;;;1;;;2;;;;2;;;;5
-Krzysztof Spólnik;Płomień Kostrze;;;;;;;;1;1;;;;;;1;2;;;;5
-Artur Hunchak;Płomień Kostrze;;1;;;;1;;;;1;1;;;;;;1;;;5
-Andrzej Pierwoła;Fajrant Kraków;2;;;;;;2;;;;;;;;;;1;;;5
-Pawał Kwiecień;Podgórze Kraków;;;;;2;;;1;1;;;;;;;;;1;;5
-Patryk Kałwa;Radziszowianka II Radziszów;;;;;;;;1;;1;1;;;;;;1;;1;5
-Kasjusz Piwowarczyk;Tramwaj Kraków;;;;;;;;;;;;;;;1;;3;;1;5
-Dawid Machno;Płomień Kostrze;;;;;;;;;;;;1;;;;1;;1;2;5
-Jacek Pala;Iskra Krzęcin;;;;;;1;;1;;2;;;;;;;;;;4
-Paweł Foltak;Borek Kraków;1;;;;1;;;;;;2;;;;;;;;;4
-Michał Kowalczyk;Trzebol Wielkie Drogi;1;;;;1;;1;;1;;;;;;;;;;;4
-Yevhen Osula;Podgórze Kraków;;;;1;;;1;;;;1;;1;;;;;;;4
-Fabian Dobek;Tramwaj Kraków;;;1;;;;1;;;;;;;1;;1;;;;4
-Piotr Zając ;Podgórze Kraków;1;;;;;;;1;;;;;1;;;;;1;;4
-Sebastian Sawczuk;Nadwiślan Kraków;1;;;;;;1;;;;;;;1;;;;1;;4
-Marcin Tombiński;Zwierzyniecki Kraków;;;;;;;1;;1;;;;;1;;;;;1;4
-Piotr Grygiel;Tramwaj Kraków;;;;;;;;1;;;;;;1;;;1;;1;4
-Kamil Ignyś;Trzebol Wielkie Drogi;;;;;;;;;;;;;;;;;;3;1;4
-Mateusz Śliwa;Radziszowianka II Radziszów;;3;;;;;;;;;;;;;;;;;;3
-Jakub Wójcik;Cedronka Wola Radziszowska;;;;;;3;;;;;;;;;;;;;;3
-Grzegorz Chmiołek;Gajowianka Gaj;;1;1;;;;;1;;;;;;;;;;;;3
-Patryk Kowalówka;Trzebol Wielkie Drogi;;;;2;;;;1;;;;;;;;;;;;3
-Bartłomiej Osuch;Tramwaj Kraków;;;;;;;1;;2;;;;;;;;;;;3
-Oleksandr Blahinin;Tramwaj Kraków;1;;1;;;;;;;1;;;;;;;;;;3
-Tomasz Karcz;Nadwiślan Kraków;1;;;;;;1;;;1;;;;;;;;;;3
-Tony Amara Ofoma;Cedronka Wola Radziszowska;1;1;;;;;;;;;1;;;;;;;;;3
-Krzysztof Wojniak;Dąbski Kraków;;;;1;;1;;;;;;1;;;;;;;;3
-Szymon Młodnicki;Zwierzyniecki Kraków;;;;1;;;;1;;;;1;;;;;;;;3
-Dominik Łabzik;Zwierzyniecki Kraków;1;;;;;;;;;1;;1;;;;;;;;3
-Marcin Rutkowski;Zwierzyniecki Kraków;;;;;;;;;1;;1;1;;;;;;;;3
-Bartłomiej Żurek;Płomień Kostrze;;;;;;;;1;;;1;;1;;;;;;;3
-Denys Sotnikov;Borek Kraków;;;1;;;;;;;;;1;1;;;;;;;3
-Michał Kołowski;Fajrant Kraków;;;;1;;;;;;;;;2;;;;;;;3
-Norbert Suder;Dąbski Kraków;;1;;;;;;;1;;;;;1;;;;;;3
-Wojciech Miszczyk;Fajrant Kraków;;;;;;;;;;1;;;;;;2;;;;3
-Michał Konieczny;Strzelcy Kraków;;;;;;;;;1;;;1;;;;;1;;;3
-Kacper Mardyła;Trzebol Wielkie Drogi;;;;;;;;;;;;;;;;;3;;;3
-Illia Khrypunov;Borek Kraków;;;;1;;1;;;;;;;;;;;;1;;3
-Dawid Zębala;Podgórze Kraków;;;;;1;;;;;;;;1;;;;;1;;3
-Jakub Tombiński;Zwierzyniecki Kraków;;;;;;;;1;;;;1;;;;;;;1;3
-Jakub Kaganek;Borek Kraków;;;;;;;;;;;;;;;;1;;;2;3
-Łukasz Filip;Strzelcy Kraków;;;;;;;;;;;;;;;;;;;3;3
-Mateusz Orecki;Płomień Kostrze;1;;1;;;;;;;;;;;;;;;;;2
-Adam Galos;Trzebol Wielkie Drogi;;;1;1;;;;;;;;;;;;;;;;2
-Piotr Chwastek;Nadwiślan Kraków;;;2;;;;;;;;;;;;;;;;;2
-Sławomir Madyda;Dąbski Kraków;;;;2;;;;;;;;;;;;;;;;2
-Adam Woźniak;Zwierzyniecki Kraków;;;1;;;;1;;;;;;;;;;;;;2
-Jakub Nowak;Gajowianka Gaj;;;;1;;;1;;;;;;;;;;;;;2
-Bartosz Synowiec;Tramwaj Kraków;;;;;1;;1;;;;;;;;;;;;;2
-Piotr Jabłoński ;Strzelcy Kraków;;1;;;;;;1;;;;;;;;;;;;2
-Michał Poręba;Tramwaj Kraków;;1;;;;;;;1;;;;;;;;;;;2
-Przemysław Kozłowski;Gajowianka Gaj;;;;;;;;;2;;;;;;;;;;;2
-Szczepan Haduch;Zwierzyniecki Kraków;;;;;;1;;;;1;;;;;;;;;;2
-Łukasz Szymański;Nadwiślan Kraków;;1;;;;;;;;;1;;;;;;;;;2
-Adrian Prajsnar;Nadwiślan Kraków;;;1;;;;;;;;1;;;;;;;;;2
-Bartłmiej Batko;Fajrant Kraków;;;;;;1;;;;;;1;;;;;;;;2
-Paweł Guzik;Borek Kraków;;;;;;;;;;;;2;;;;;;;;2
-Uladzislau Shulha;Borek Kraków;;;;;;;;;;;;2;;;;;;;;2
-Łukasz Kubik;Cedronka Wola Radziszowska;;;;;;1;;;;;;;1;;;;;;;2
-Kamil Pałac;Iskra Krzęcin;;;;;;;1;;;;;;1;;;;;;;2
-Andrij Levko;Nadwiślan Kraków;;;;;;;;;;;;1;1;;;;;;;2
-Bartłomiej Strojny;Radziszowianka II Radziszów;;;;1;;;;;;;;;;1;;;;;;2
-Denys Sotnikov;Borek Kraków;;;;;;1;;;;;;;;1;;;;;;2
-Karol Wójtowicz;Fajrant Kraków;;;;;;1;;;;;;;;1;;;;;;2
-Marcin Koś;Strzelcy Kraków;;;;;;;;;;;;1;;1;;;;;;2
-Kamil Gałka;Radziszowianka II Radziszów;;;1;;;;;;;;;;;;1;;;;;2
-Piotr Foryś;Gajowianka Gaj;;1;;;;;;;;;;;;;;1;;;;2
-Jan Hachlowski;Iskra Krzęcin;;;;;;;;;;;;;1;;;1;;;;2
-Serhii Symantsiv;Strzelcy Kraków;;;;;;;;;;;;1;;;;;1;;;2
-Michał Skołyszewski;Iskra Krzęcin;;;;;;;;;;;;;;1;;;1;;;2
-Petar Borovicanin;Tramwaj Kraków;;;;;;;;;;;;;;;1;;1;;;2
-Michał Malarz;Podgórze Kraków;;;;;;;;;1;;;;;;;;;1;;2
-Kacper Rogowski;Borek Kraków;;;;;;;;;;;;;1;;;;;1;;2
-Maciej Zapała;Borek Kraków;;;;;;;;;;;;;;;1;;;1;;2
-Paweł Szafran;Nadwiślan Kraków;;;;;;;;;;;;;;;;;1;1;;2
-Kamil Gawęda;Trzebol Wielkie Drogi;1;;;;;;;;;;;;;;;;;;1;2
-Mateusz Kęczkowski;Strzelcy Kraków;;;1;;;;;;;;;;;;;;;;1;2
-Jerzy Kohut;Cedronka Wola Radziszowska;;;;;;;;;;1;;;;;;;;;1;2
-Bartłomiej Popiel;Płomień Kostrze;;;;;;;;;;;1;;;;;;;;1;2
-Roman Kostyria;Trzebol Wielkie Drogi;1;;;;;;;;;;;;;;;;;;;1
-Maciej Skwira;Fajrant Kraków;1;;;;;;;;;;;;;;;;;;;1
-Patryk Ziaja;Fajrant Kraków;1;;;;;;;;;;;;;;;;;;;1
-Paweł Mackiewicz;Iskra Krzęcin;1;;;;;;;;;;;;;;;;;;;1
-Dawid Pindel;Strzelcy Kraków;;1;;;;;;;;;;;;;;;;;;1
-Szymon Pankiewicz;Zwierzyniecki Kraków;;1;;;;;;;;;;;;;;;;;;1
-Krzysztof Pachacz;Borek Kraków;;1;;;;;;;;;;;;;;;;;;1
-Gabriel Kraczek;Radziszowianka II Radziszów;;1;;;;;;;;;;;;;;;;;;1
-Sekou Camara;Płomień Kostrze;;;1;;;;;;;;;;;;;;;;;1
-Karol Styczyński;Cedronka Wola Radziszowska;;;1;;;;;;;;;;;;;;;;;1
-Michał Karaś;Radziszowianka II Radziszów;;;1;;;;;;;;;;;;;;;;;1
-Jan Suberlak;Tramwaj Kraków;;;1;;;;;;;;;;;;;;;;;1
-Karol Szot;Dąbski Kraków;;;;1;;;;;;;;;;;;;;;;1
-Maciej Zięcik;Iskra Krzęcin;;;;1;;;;;;;;;;;;;;;;1
-Trevor Mcdonald Motsi;Płomień Kostrze;;;;1;;;;;;;;;;;;;;;;1
-Tomasz Baliga;Radziszowianka II Radziszów;;;;1;;;;;;;;;;;;;;;;1
-Krystian Opach;Strzelcy Kraków;;;;1;;;;;;;;;;;;;;;;1
-Jakub Szewczyk;Podgórze Kraków;;;;1;;;;;;;;;;;;;;;;1
-Wiktor Papież;Gajowianka Gaj;;;;1;;;;;;;;;;;;;;;;1
-Piotr Buczek;Borek Kraków;;;;1;;;;;;;;;;;;;;;;1
-Oliwier Mazonik ;Strzelcy Kraków;;;;;1;;;;;;;;;;;;;;;1
-Michał Jaśkiewicz;Strzelcy Kraków;;;;;;1;;;;;;;;;;;;;;1
-Jakub Bryła;Płomień Kostrze;;;;;;1;;;;;;;;;;;;;;1
-Kamil Kopecki;Trzebol Wielkie Drogi;;;;;;1;;;;;;;;;;;;;;1
-Michał Cierniak;Fajrant Kraków;;;;;;;1;;;;;;;;;;;;;1
-Filip Cholewa;Iskra Krzęcin;;;;;;;1;;;;;;;;;;;;;1
-Jakub Więcławek;Podgórze Kraków;;;;;;;1;;;;;;;;;;;;;1
-Konrad Konarzewski;Trzebol Wielkie Drogi;;;;;;;;1;;;;;;;;;;;;1
-Adrian Żmuda;Iskra Krzęcin;;;;;;;;1;;;;;;;;;;;;1
-Oliwier Krótkiewicz;Radziszowianka II Radziszów;;;;;;;;1;;;;;;;;;;;;1
-Paweł Płonka;Radziszowianka II Radziszów;;;;;;;;1;;;;;;;;;;;;1
-Konrad Marcinek;Podgórze Kraków;;;;;;;;1;;;;;;;;;;;;1
-Jakub Wąsik;Zwierzyniecki Kraków;;;;;;;;1;;;;;;;;;;;;1
-Jan Smerecki;Płomień Kostrze;;;;;;;;;1;;;;;;;;;;;1
-Tomasz Grabowski;Cedronka Wola Radziszowska;;;;;;;;;;1;;;;;;;;;;1
-Szymon Pachlowski;Tramwaj Kraków;;;;;;;;;;1;;;;;;;;;;1
-Maciej Kwiecień;Gajowianka Gaj;;;;;;;;;;;1;;;;;;;;;1
-Tomasz Cymerkiewicz;Trzebol Wielkie Drogi;;;;;;;;;1;;;;;;;;;;;1
-Paweł Kuk;Fajrant Kraków;;;;;;;;;;;;1;;;;;;;;1
-Adam Pęgiel;Radziszowianka II Radziszów;;;;;;;;;;;;;1;;;;;;;1
-Sławomir Trojanowski;Cedronka Wola Radziszowska;;;;;;;;;;;;;1;;;;;;;1
-Karol Piwoński;Fajrant Kraków;;;;;;;;;;;;;1;;;;;;;1
-Fernando Gámez Lozano;Podgórze Kraków;;;;;;;;;;;;;1;;;;;;;1
-Bartosz Pałac;Cedronka Wola Radziszowska;;;;;;;;;;;;;;1;;;;;;1
-Marcin Burdacki;Fajrant Kraków;;;;;;;;;;;;;;1;;;;;;1
-Arkadiusz Kłyś;Radziszowianka II Radziszów;;;;;;;;;;;;;;1;;;;;;1
-Bartłomiej Put;Gajowianka Gaj;;;;;;;;;;;;;;;1;;;;;1
-Filip Brzdęk;Tramwaj Kraków;;;;;;;;;;;;;;;1;;;;;1
-Daniel Brodziński;Borek Kraków;;;;;;;;;;;;;;;1;;;;;1
-Adam Kania;Cedronka Wola Radziszowska;;;;;;;;;;;;;;;1;;;;;1
-Wojciech Pacholec;Fajrant Kraków;;;;;;;;;;;;;;;;1;;;;1
-Mateusz Wójcik;Fajrant Kraków;;;;;;;;;;;;;;;;1;;;;1
-Damian Starowicz;Cedronka Wola Radziszowska;;;;;;;;;;;;;;;;1;;;;1
-Patryk Wilk;Cedronka Wola Radziszowska;;;;;;;;;;;;;;;;1;;;;1
-Jakub Osuch;Tramwaj Kraków;;;;;;;;;;;;;;;;1;;;;1
-Franciszek Wcisło;Radziszowianka II Radziszów;;;;;;;;;;;;;;;;1;;;;1
-Kacper Młodzik ;Radziszowianka II Radziszów;;;;;;;;;;;;;;;;;1;;;1
-Kamil Bieński;Tramwaj Kraków;;;;;;;;;;;;;;;;;1;;;1
-Kacper Ptak ;Cedronka Wola Radziszowska;;;;;;;;;;;;;;;;;;1;;1
-Jacek Kufrej;Gajowianka Gaj;;;;;;;;;;;;;;;;;;1;;1
-Maciej Wcisło;Trzebol Wielkie Drogi;;;;;;;;;;;;;;;;;;1;;1
-Tomasz Kawa;Fajrant Kraków;;;;;;;;;;;;;;;;;;1;;1
-Krzysztof Kluba ;Zwierzyniecki Kraków;;;;;;;;;;;;;;;;;;1;;1
-Patryk Schneider;Radziszowianka II Radziszów;;;;;;;;;;;;;;;;;;;1;1
-Michał Jakubiec;Dąbski Kraków;;;;;;;;;;;;;;;;;;;1;1
-Bartłomiej Wal;Strzelcy Kraków;;;;;;;;;;;;;;;;;;;1;1
-Maciej Pruś;Strzelcy Kraków;;;;;;;;;;;;;;;;;;;1;1
-Stefan Tombiński;Zwierzyniecki Kraków;;;;;;;;;;;;;;;;;;;1;1
-Erick Armero Torres;Zwierzyniecki Kraków;;;;;;;;;;;;;;;;;;;1;1
+﻿Player;Team;Matchweek 1;Matchweek 2;Matchweek 3;Matchweek 4;Matchweek 5;Matchweek 6;Matchweek 7;Matchweek 8;Matchweek 9;Matchweek 10;Matchweek 11;Matchweek 12;Matchweek 13;Matchweek 14;Matchweek 16;Matchweek 17;Matchweek 17;Matchweek 18;Matchweek 19;Matchweek 20;Sum
+Wojciech Ochałek;Podgórze Kraków;;1;;;1;;;;4;3;1;3;3;;1;1;;;;;18
+Eryk Sikora;Dąbski Kraków;1;;;2;;1;;;1;1;;4;;3;;;;;;2;15
+Adam Brzeźniak;Tramwaj Kraków;;1;1;3;3;;;;1;1;;;;;1;1;;1;;2;15
+Maciej Wcisło;Borek Kraków;;;;;;;2;;1;;1;1;1;2;1;;2;;1;;12
+Kamil Sekuła;Iskra Krzęcin;;1;;;2;;1;;;;2;;2;1;;;;;3;;12
+Michał Ścieszka;Nadwiślan Kraków;;1;3;;;1;;1;;;1;1;;;1;;;1;;1;11
+Paweł Koczwara;Zwierzyniecki Kraków;;;;;3;1;;;;;1;1;1;1;1;1;;;;;10
+Kacper Janik;Radziszowianka II Radziszów;1;1;1;;3;1;2;;;;;;;;;;;;;;9
+Mateusz Bucki;Cedronka Wola Radziszowska;1;;;;;1;;;1;5;;;;;;;;1;;;9
+Adrian Prajsnar;Nadwiślan Kraków;;1;;;1;2;;1;;;;1;;;1;;;2;;;9
+Bartłomiej Pasierbek;Iskra Krzęcin;;;;;1;1;;2;1;;;;2;;;1;;;;1;9
+Tomasz Tychoniak;Radziszowianka II Radziszów;1;;;;2;;;1;;;;1;;;;;3;;;1;9
+Andrzej Stryszowski;Płomień Kostrze;;2;2;;;1;;;;;;;;;1;1;;;;1;8
+Mirosław Podgajny;Dąbski Kraków;;;;1;1;;1;;3;;;1;;;;;;;;;7
+Kamil Wcisło;Płomień Kostrze;1;1;;;;;;1;;2;;2;;;;;;;;;7
+Jakub Paciorek;Radziszowianka II Radziszów;;;;;1;;;1;;2;;2;;;;;1;;;;7
+Clifff Cockrill;Płomień Kostrze;;;1;1;;;;;;1;;;2;;;1;1;;;;7
+Konrad Kozioł;Borek Kraków;;2;;;1;;;;1;;1;;;;1;;;;1;;7
+Filip Madejski;Borek Kraków;;;;;;1;;;1;;;;;1;1;1;;1;1;;7
+Tomasz Ziarko;Iskra Krzęcin;;;;;;1;1;2;;1;;;;;;;;;2;;7
+Jarosław Dziura;Zwierzyniecki Kraków;;;;;;;;2;;;1;1;1;1;;;;;;1;7
+Szymon Moskal;Tramwaj Kraków;;;;2;;;;1;1;;;;;;;;1;;1;1;7
+Dariusz Osuch;Tramwaj Kraków;1;;;1;;;;;;;1;2;1;;;;;;;;6
+Jakub Marczak;Podgórze Kraków;;;;1;;;;2;1;;;;1;1;;;;;;;6
+Piotr Fuss;Iskra Krzęcin;;4;;;;;;;;;;;1;;1;;;;;;6
+Jakub Kałduś;Borek Kraków;1;1;;1;1;;;;;;;;;1;1;;;;;;6
+Kamil Gadocha;Gajowianka Gaj;;1;1;1;1;;;;1;;;;;;;1;;;;;6
+Bryan Maurer;Nadwiślan Kraków;1;;2;;;;;;;;;;1;1;;;1;;;;6
+Łukasz Froń;Podgórze Kraków;;;;;;;;;3;2;;;;;;;;;;1;6
+Grzegorz Noga;Dąbski Kraków;;;2;1;;;;2;;;;;;;;;;;;;5
+Arkadiusz Czwartek;Iskra Krzęcin;;2;;;;;;;;2;;;;1;;;;;;;5
+Mateusz Jędrysiak;Dąbski Kraków;;;;;;;;;1;;;2;;;;2;;;;;5
+Krzysztof Spólnik;Płomień Kostrze;;;;;;;;1;1;;;;;;1;2;;;;;5
+Artur Hunchak;Płomień Kostrze;;1;;;;1;;;;1;1;;;;;;1;;;;5
+Andrzej Pierwoła;Fajrant Kraków;2;;;;;;2;;;;;;;;;;1;;;;5
+Pawał Kwiecień;Podgórze Kraków;;;;;2;;;1;1;;;;;;;;;1;;;5
+Patryk Kałwa;Radziszowianka II Radziszów;;;;;;;;1;;1;1;;;;;;1;;1;;5
+Kasjusz Piwowarczyk;Tramwaj Kraków;;;;;;;;;;;;;;;1;;3;;1;;5
+Dawid Machno;Płomień Kostrze;;;;;;;;;;;;1;;;;1;;1;2;;5
+Paweł Foltak;Borek Kraków;1;;;;1;;;;;;2;;;;;;;;;1;5
+Kamil Ignyś;Trzebol Wielkie Drogi;;;;;;;;;;;;;;;;;;3;1;1;5
+Jacek Pala;Iskra Krzęcin;;;;;;1;;1;;2;;;;;;;;;;;4
+Michał Kowalczyk;Trzebol Wielkie Drogi;1;;;;1;;1;;1;;;;;;;;;;;;4
+Yevhen Osula;Podgórze Kraków;;;;1;;;1;;;;1;;1;;;;;;;;4
+Fabian Dobek;Tramwaj Kraków;;;1;;;;1;;;;;;;1;;1;;;;;4
+Piotr Zając ;Podgórze Kraków;1;;;;;;;1;;;;;1;;;;;1;;;4
+Sebastian Sawczuk;Nadwiślan Kraków;1;;;;;;1;;;;;;;1;;;;1;;;4
+Marcin Tombiński;Zwierzyniecki Kraków;;;;;;;1;;1;;;;;1;;;;;1;;4
+Piotr Grygiel;Tramwaj Kraków;;;;;;;;1;;;;;;1;;;1;;1;;4
+Mateusz Śliwa;Radziszowianka II Radziszów;;3;;;;;;;;;;;;;;;;;;;3
+Jakub Wójcik;Cedronka Wola Radziszowska;;;;;;3;;;;;;;;;;;;;;;3
+Grzegorz Chmiołek;Gajowianka Gaj;;1;1;;;;;1;;;;;;;;;;;;;3
+Patryk Kowalówka;Trzebol Wielkie Drogi;;;;2;;;;1;;;;;;;;;;;;;3
+Bartłomiej Osuch;Tramwaj Kraków;;;;;;;1;;2;;;;;;;;;;;;3
+Oleksandr Blahinin;Tramwaj Kraków;1;;1;;;;;;;1;;;;;;;;;;;3
+Tomasz Karcz;Nadwiślan Kraków;1;;;;;;1;;;1;;;;;;;;;;;3
+Tony Amara Ofoma;Cedronka Wola Radziszowska;1;1;;;;;;;;;1;;;;;;;;;;3
+Krzysztof Wojniak;Dąbski Kraków;;;;1;;1;;;;;;1;;;;;;;;;3
+Szymon Młodnicki;Zwierzyniecki Kraków;;;;1;;;;1;;;;1;;;;;;;;;3
+Dominik Łabzik;Zwierzyniecki Kraków;1;;;;;;;;;1;;1;;;;;;;;;3
+Marcin Rutkowski;Zwierzyniecki Kraków;;;;;;;;;1;;1;1;;;;;;;;;3
+Bartłomiej Żurek;Płomień Kostrze;;;;;;;;1;;;1;;1;;;;;;;;3
+Denys Sotnikov;Borek Kraków;;;1;;;;;;;;;1;1;;;;;;;;3
+Michał Kołowski;Fajrant Kraków;;;;1;;;;;;;;;2;;;;;;;;3
+Norbert Suder;Dąbski Kraków;;1;;;;;;;1;;;;;1;;;;;;;3
+Wojciech Miszczyk;Fajrant Kraków;;;;;;;;;;1;;;;;;2;;;;;3
+Michał Konieczny;Strzelcy Kraków;;;;;;;;;1;;;1;;;;;1;;;;3
+Kacper Mardyła;Trzebol Wielkie Drogi;;;;;;;;;;;;;;;;;3;;;;3
+Illia Khrypunov;Borek Kraków;;;;1;;1;;;;;;;;;;;;1;;;3
+Dawid Zębala;Podgórze Kraków;;;;;1;;;;;;;;1;;;;;1;;;3
+Jakub Tombiński;Zwierzyniecki Kraków;;;;;;;;1;;;;1;;;;;;;1;;3
+Jakub Kaganek;Borek Kraków;;;;;;;;;;;;;;;;1;;;2;;3
+Łukasz Filip;Strzelcy Kraków;;;;;;;;;;;;;;;;;;;3;;3
+Maciej Zapała;Borek Kraków;;;;;;;;;;;;;;;1;;;1;;1;3
+Kamil Gawęda;Trzebol Wielkie Drogi;1;;;;;;;;;;;;;;;;;;1;1;3
+Mateusz Orecki;Płomień Kostrze;1;;1;;;;;;;;;;;;;;;;;;2
+Adam Galos;Trzebol Wielkie Drogi;;;1;1;;;;;;;;;;;;;;;;;2
+Piotr Chwastek;Nadwiślan Kraków;;;2;;;;;;;;;;;;;;;;;;2
+Sławomir Madyda;Dąbski Kraków;;;;2;;;;;;;;;;;;;;;;;2
+Adam Woźniak;Zwierzyniecki Kraków;;;1;;;;1;;;;;;;;;;;;;;2
+Jakub Nowak;Gajowianka Gaj;;;;1;;;1;;;;;;;;;;;;;;2
+Bartosz Synowiec;Tramwaj Kraków;;;;;1;;1;;;;;;;;;;;;;;2
+Piotr Jabłoński ;Strzelcy Kraków;;1;;;;;;1;;;;;;;;;;;;;2
+Michał Poręba;Tramwaj Kraków;;1;;;;;;;1;;;;;;;;;;;;2
+Przemysław Kozłowski;Gajowianka Gaj;;;;;;;;;2;;;;;;;;;;;;2
+Szczepan Haduch;Zwierzyniecki Kraków;;;;;;1;;;;1;;;;;;;;;;;2
+Łukasz Szymański;Nadwiślan Kraków;;1;;;;;;;;;1;;;;;;;;;;2
+Adrian Prajsnar;Nadwiślan Kraków;;;1;;;;;;;;1;;;;;;;;;;2
+Bartłmiej Batko;Fajrant Kraków;;;;;;1;;;;;;1;;;;;;;;;2
+Paweł Guzik;Borek Kraków;;;;;;;;;;;;2;;;;;;;;;2
+Uladzislau Shulha;Borek Kraków;;;;;;;;;;;;2;;;;;;;;;2
+Łukasz Kubik;Cedronka Wola Radziszowska;;;;;;1;;;;;;;1;;;;;;;;2
+Kamil Pałac;Iskra Krzęcin;;;;;;;1;;;;;;1;;;;;;;;2
+Andrij Levko;Nadwiślan Kraków;;;;;;;;;;;;1;1;;;;;;;;2
+Bartłomiej Strojny;Radziszowianka II Radziszów;;;;1;;;;;;;;;;1;;;;;;;2
+Denys Sotnikov;Borek Kraków;;;;;;1;;;;;;;;1;;;;;;;2
+Karol Wójtowicz;Fajrant Kraków;;;;;;1;;;;;;;;1;;;;;;;2
+Marcin Koś;Strzelcy Kraków;;;;;;;;;;;;1;;1;;;;;;;2
+Kamil Gałka;Radziszowianka II Radziszów;;;1;;;;;;;;;;;;1;;;;;;2
+Piotr Foryś;Gajowianka Gaj;;1;;;;;;;;;;;;;;1;;;;;2
+Jan Hachlowski;Iskra Krzęcin;;;;;;;;;;;;;1;;;1;;;;;2
+Serhii Symantsiv;Strzelcy Kraków;;;;;;;;;;;;1;;;;;1;;;;2
+Michał Skołyszewski;Iskra Krzęcin;;;;;;;;;;;;;;1;;;1;;;;2
+Petar Borovicanin;Tramwaj Kraków;;;;;;;;;;;;;;;1;;1;;;;2
+Michał Malarz;Podgórze Kraków;;;;;;;;;1;;;;;;;;;1;;;2
+Kacper Rogowski;Borek Kraków;;;;;;;;;;;;;1;;;;;1;;;2
+Paweł Szafran;Nadwiślan Kraków;;;;;;;;;;;;;;;;;1;1;;;2
+Mateusz Kęczkowski;Strzelcy Kraków;;;1;;;;;;;;;;;;;;;;1;;2
+Jerzy Kohut;Cedronka Wola Radziszowska;;;;;;;;;;1;;;;;;;;;1;;2
+Bartłomiej Popiel;Płomień Kostrze;;;;;;;;;;;1;;;;;;;;1;;2
+Maciej Zięcik;Iskra Krzęcin;;;;1;;;;;;;;;;;;;;;;1;2
+Fernando Gámez Lozano;Podgórze Kraków;;;;;;;;;;;;;1;;;;;;;1;2
+Tomasz Kawa;Fajrant Kraków;;;;;;;;;;;;;;;;;;1;;1;2
+Bartłomiej Wal;Strzelcy Kraków;;;;;;;;;;;;;;;;;;;1;1;2
+Roman Kostyria;Trzebol Wielkie Drogi;1;;;;;;;;;;;;;;;;;;;;1
+Maciej Skwira;Fajrant Kraków;1;;;;;;;;;;;;;;;;;;;;1
+Patryk Ziaja;Fajrant Kraków;1;;;;;;;;;;;;;;;;;;;;1
+Paweł Mackiewicz;Iskra Krzęcin;1;;;;;;;;;;;;;;;;;;;;1
+Dawid Pindel;Strzelcy Kraków;;1;;;;;;;;;;;;;;;;;;;1
+Szymon Pankiewicz;Zwierzyniecki Kraków;;1;;;;;;;;;;;;;;;;;;;1
+Krzysztof Pachacz;Borek Kraków;;1;;;;;;;;;;;;;;;;;;;1
+Gabriel Kraczek;Radziszowianka II Radziszów;;1;;;;;;;;;;;;;;;;;;;1
+Sekou Camara;Płomień Kostrze;;;1;;;;;;;;;;;;;;;;;;1
+Karol Styczyński;Cedronka Wola Radziszowska;;;1;;;;;;;;;;;;;;;;;;1
+Michał Karaś;Radziszowianka II Radziszów;;;1;;;;;;;;;;;;;;;;;;1
+Jan Suberlak;Tramwaj Kraków;;;1;;;;;;;;;;;;;;;;;;1
+Karol Szot;Dąbski Kraków;;;;1;;;;;;;;;;;;;;;;;1
+Trevor Mcdonald Motsi;Płomień Kostrze;;;;1;;;;;;;;;;;;;;;;;1
+Tomasz Baliga;Radziszowianka II Radziszów;;;;1;;;;;;;;;;;;;;;;;1
+Krystian Opach;Strzelcy Kraków;;;;1;;;;;;;;;;;;;;;;;1
+Jakub Szewczyk;Podgórze Kraków;;;;1;;;;;;;;;;;;;;;;;1
+Wiktor Papież;Gajowianka Gaj;;;;1;;;;;;;;;;;;;;;;;1
+Piotr Buczek;Borek Kraków;;;;1;;;;;;;;;;;;;;;;;1
+Oliwier Mazonik ;Strzelcy Kraków;;;;;1;;;;;;;;;;;;;;;;1
+Michał Jaśkiewicz;Strzelcy Kraków;;;;;;1;;;;;;;;;;;;;;;1
+Jakub Bryła;Płomień Kostrze;;;;;;1;;;;;;;;;;;;;;;1
+Kamil Kopecki;Trzebol Wielkie Drogi;;;;;;1;;;;;;;;;;;;;;;1
+Michał Cierniak;Fajrant Kraków;;;;;;;1;;;;;;;;;;;;;;1
+Filip Cholewa;Iskra Krzęcin;;;;;;;1;;;;;;;;;;;;;;1
+Jakub Więcławek;Podgórze Kraków;;;;;;;1;;;;;;;;;;;;;;1
+Konrad Konarzewski;Trzebol Wielkie Drogi;;;;;;;;1;;;;;;;;;;;;;1
+Adrian Żmuda;Iskra Krzęcin;;;;;;;;1;;;;;;;;;;;;;1
+Oliwier Krótkiewicz;Radziszowianka II Radziszów;;;;;;;;1;;;;;;;;;;;;;1
+Paweł Płonka;Radziszowianka II Radziszów;;;;;;;;1;;;;;;;;;;;;;1
+Konrad Marcinek;Podgórze Kraków;;;;;;;;1;;;;;;;;;;;;;1
+Jakub Wąsik;Zwierzyniecki Kraków;;;;;;;;1;;;;;;;;;;;;;1
+Jan Smerecki;Płomień Kostrze;;;;;;;;;1;;;;;;;;;;;;1
+Tomasz Grabowski;Cedronka Wola Radziszowska;;;;;;;;;;1;;;;;;;;;;;1
+Szymon Pachlowski;Tramwaj Kraków;;;;;;;;;;1;;;;;;;;;;;1
+Maciej Kwiecień;Gajowianka Gaj;;;;;;;;;;;1;;;;;;;;;;1
+Tomasz Cymerkiewicz;Trzebol Wielkie Drogi;;;;;;;;;1;;;;;;;;;;;;1
+Paweł Kuk;Fajrant Kraków;;;;;;;;;;;;1;;;;;;;;;1
+Adam Pęgiel;Radziszowianka II Radziszów;;;;;;;;;;;;;1;;;;;;;;1
+Sławomir Trojanowski;Cedronka Wola Radziszowska;;;;;;;;;;;;;1;;;;;;;;1
+Karol Piwoński;Fajrant Kraków;;;;;;;;;;;;;1;;;;;;;;1
+Bartosz Pałac;Cedronka Wola Radziszowska;;;;;;;;;;;;;;1;;;;;;;1
+Marcin Burdacki;Fajrant Kraków;;;;;;;;;;;;;;1;;;;;;;1
+Arkadiusz Kłyś;Radziszowianka II Radziszów;;;;;;;;;;;;;;1;;;;;;;1
+Bartłomiej Put;Gajowianka Gaj;;;;;;;;;;;;;;;1;;;;;;1
+Filip Brzdęk;Tramwaj Kraków;;;;;;;;;;;;;;;1;;;;;;1
+Daniel Brodziński;Borek Kraków;;;;;;;;;;;;;;;1;;;;;;1
+Adam Kania;Cedronka Wola Radziszowska;;;;;;;;;;;;;;;1;;;;;;1
+Wojciech Pacholec;Fajrant Kraków;;;;;;;;;;;;;;;;1;;;;;1
+Mateusz Wójcik;Fajrant Kraków;;;;;;;;;;;;;;;;1;;;;;1
+Damian Starowicz;Cedronka Wola Radziszowska;;;;;;;;;;;;;;;;1;;;;;1
+Patryk Wilk;Cedronka Wola Radziszowska;;;;;;;;;;;;;;;;1;;;;;1
+Jakub Osuch;Tramwaj Kraków;;;;;;;;;;;;;;;;1;;;;;1
+Franciszek Wcisło;Radziszowianka II Radziszów;;;;;;;;;;;;;;;;1;;;;;1
+Kacper Młodzik ;Radziszowianka II Radziszów;;;;;;;;;;;;;;;;;1;;;;1
+Kamil Bieński;Tramwaj Kraków;;;;;;;;;;;;;;;;;1;;;;1
+Kacper Ptak ;Cedronka Wola Radziszowska;;;;;;;;;;;;;;;;;;1;;;1
+Jacek Kufrej;Gajowianka Gaj;;;;;;;;;;;;;;;;;;1;;;1
+Maciej Wcisło;Trzebol Wielkie Drogi;;;;;;;;;;;;;;;;;;1;;;1
+Krzysztof Kluba ;Zwierzyniecki Kraków;;;;;;;;;;;;;;;;;;1;;;1
+Patryk Schneider;Radziszowianka II Radziszów;;;;;;;;;;;;;;;;;;;1;;1
+Michał Jakubiec;Dąbski Kraków;;;;;;;;;;;;;;;;;;;1;;1
+Maciej Pruś;Strzelcy Kraków;;;;;;;;;;;;;;;;;;;1;;1
+Stefan Tombiński;Zwierzyniecki Kraków;;;;;;;;;;;;;;;;;;;1;;1
+Erick Armero Torres;Zwierzyniecki Kraków;;;;;;;;;;;;;;;;;;;1;;1
+Michał Kierot;Podgórze Kraków;;;;;;;;;;;;;;;;;;;;1;1
+Łukasz Mazurkiewicz;Iskra Krzęcin;;;;;;;;;;;;;;;;;;;;1;1
+Sylwester Jarosiński;Fajrant Kraków;;;;;;;;;;;;;;;;;;;;1;1
