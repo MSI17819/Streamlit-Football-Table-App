@@ -193,7 +193,7 @@ if st.button('Chart autumn'):
     st.pyplot(fig)
 
 # Open json file from github url
-with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/Data/ClassA_result_after_12_spring.json') as url_spring:
+with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/Data/ClassA_result_after_13_spring.json') as url_spring:
     data_spring = json.load(url_spring)
 
 if st.button('Chart spring'):
