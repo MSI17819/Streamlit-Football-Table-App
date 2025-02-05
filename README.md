@@ -40,7 +40,7 @@ The table is linked to a graph where you can find the position of the team relat
 - [Bumpy Chart](https://mplsoccer.readthedocs.io/en/latest/gallery/bumpy_charts/plot_bumpy.html)
 ## Status
 
-Project is: _in progress_
+Project is: _completed_
 
 ## Room for Improvement
 
