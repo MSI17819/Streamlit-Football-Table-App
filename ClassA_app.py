@@ -93,6 +93,23 @@ with c2:
 with urllib.request.urlopen(r'https://raw.githubusercontent.com/MSI17819/Streamlit-Football-Table-App/main/Data/ClassA_result_after_13.json') as url:
     data_after_12 = json.load(url)
 
+team_list = ['BOREK KRAKÓW',
+             'PŁOMIEŃ KOSTRZE',
+             'ZWIERZYNIECKI KRAKÓW',
+             'TRAMWAJ KRAKÓW',
+             'PODGÓRZE KRAKÓW',
+             'NADWIŚLAN KRAKÓW',
+             'RADZISZOWIANKA II RADZISZÓW',
+             'ISKRA KRZĘCIN',
+             'DĄBSKI KRAKÓW',
+             'FAIRANT KRAKÓW',
+             'GAJOWIANKA GAJ',
+             'TRZEBOL WIELKIE DROGI',
+             'CEDRONKA WOLA RADZISZOWSKA',
+             'STRZELCY KRAKÓW'
+            ]
+             
+
 # Display of notes to the chart
 st.markdown("""The chart shows the position and number of matches played for each team.""")
 
@@ -156,7 +173,7 @@ if st.button('Chart autumn'):
     fig.text(0.5, 0.99, TITLE, size=30, color="#222222", ha="center")
     
     # add color from highlite_dict to assigned team
-    for idx, val in enumerate(df_slice['Team']):
+    for idx, val in enumerate(team_list):
         # Using only the first word of the team name
         team_name = val.split()[0]
         for key, value in highlight_dict.items():
